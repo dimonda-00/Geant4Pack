@@ -1,21 +1,21 @@
 Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
 Change Dir: /home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_406bd/fast && /usr/bin/make -f CMakeFiles/cmTC_406bd.dir/build.make CMakeFiles/cmTC_406bd.dir/build
+Run Build Command(s):/usr/bin/make cmTC_abf5a/fast && /usr/bin/make -f CMakeFiles/cmTC_abf5a.dir/build.make CMakeFiles/cmTC_abf5a.dir/build
 make[1]: Entering directory '/home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_406bd.dir/src.c.o
-/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_406bd.dir/src.c.o   -c /home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1/build/CMakeFiles/CMakeTmp/src.c
-Linking C executable cmTC_406bd
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_406bd.dir/link.txt --verbose=1
-/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    CMakeFiles/cmTC_406bd.dir/src.c.o  -o cmTC_406bd 
-/usr/bin/ld: CMakeFiles/cmTC_406bd.dir/src.c.o: in function `main':
+Building C object CMakeFiles/cmTC_abf5a.dir/src.c.o
+/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_abf5a.dir/src.c.o   -c /home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_abf5a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_abf5a.dir/link.txt --verbose=1
+/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    CMakeFiles/cmTC_abf5a.dir/src.c.o  -o cmTC_abf5a 
+/usr/bin/ld: CMakeFiles/cmTC_abf5a.dir/src.c.o: in function `main':
 src.c:(.text+0x46): undefined reference to `pthread_create'
 /usr/bin/ld: src.c:(.text+0x52): undefined reference to `pthread_detach'
 /usr/bin/ld: src.c:(.text+0x63): undefined reference to `pthread_join'
 collect2: error: ld returned 1 exit status
-make[1]: *** [CMakeFiles/cmTC_406bd.dir/build.make:87: cmTC_406bd] Error 1
+make[1]: *** [CMakeFiles/cmTC_abf5a.dir/build.make:87: cmTC_abf5a] Error 1
 make[1]: Leaving directory '/home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1/build/CMakeFiles/CMakeTmp'
-make: *** [Makefile:121: cmTC_406bd/fast] Error 2
+make: *** [Makefile:121: cmTC_abf5a/fast] Error 2
 
 
 Source file was:

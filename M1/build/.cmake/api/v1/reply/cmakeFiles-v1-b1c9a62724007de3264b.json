@@ -534,6 +534,9 @@
 		},
 		{
 			"path" : "vis.mac"
+		},
+		{
+			"path" : "run0.mac"
 		}
 	],
 	"kind" : "cmakeFiles",

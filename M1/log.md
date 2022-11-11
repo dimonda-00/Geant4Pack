@@ -25,3 +25,23 @@ DetectorConstruction.cc里面的位置坐标应该是以几何中心为准
 detector材料还没设置
 一定要保存
 今天又错删了一次
+# 11/11
+今天整上了vscode Cmake 好用滴捏
+还有git ，代码可以存在github上面了
+记得备份
+* 11/11/17：50 
+现在开始弄PhysicsList
+* 11/11/23:01
+今天为项目附加了run0.mac脚本
+注意：脚本修改后Cmake插件会直接修改，不需要rebuild，
+但是修改cc文件后需要重新编译。
+
+注意：今天在StepAction.cc的
+void SteppingAction::UserSteppingAction(const G4Step* step)
+函数后附加了数据输出部分，目的为在该文件夹生成一个“myData.txt”文件
+但运行后该文件未出现，需要debug。
+
+注意：今天在gui模式下运行存在内存占用过高情况，
+初步判断是在RockSeam和CoalSeam内次级粒子运算占用所致，
+需要下一步在StepAction.cc中控制Track，kill掉前两层生成的非需要粒子。
+over，今天下班

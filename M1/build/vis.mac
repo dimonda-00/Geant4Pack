@@ -97,8 +97,10 @@
 /vis/set/colour        # Revert to default colour (white)
 /vis/set/lineWidth     # Revert to default line width (1.)
 #
-# 显示字符
-#/vis/scene/add/text 6 7 10 cm 18 4 4 Shape2
+# 显示字符 前面三位是坐标，第四位是字号，56位不知道，最后是字符
+/vis/scene/add/text 0 70 5 cm 12 4 4  detector
+/vis/scene/add/text 0 70 35 cm 12 4 4 CoalSeam
+/vis/scene/add/text 0 70 65 cm 12 4 4 RockSeam
 #
 # To get nice view 调节视图
 # Make the "World" box invisible 
@@ -114,7 +116,7 @@
 /vis/viewer/set/hiddenMarker false #边界透明
 /vis/viewer/set/viewpointThetaPhi 120 150
 # "CoalSeam"视觉调节
-/vis/geometry/set/colour CoalsSeam 0 0.5 0 0 #argb
+/vis/geometry/set/colour CoalSeam 0 0 0.5 0 #argb
 /vis/viewer/set/style surface
 /vis/viewer/set/hiddenMarker false #边界透明
 /vis/viewer/set/viewpointThetaPhi 120 150
@@ -125,3 +127,5 @@
 #
 # For file-based drivers, use this to create an empty detector view:
 #/vis/viewer/flush
+# where N is the maximum number you wish to allow.  N < 0 means "unlimited".
+/vis/scene/endOfEventAction accumulate <-1>

@@ -12,6 +12,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.16.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.16.3/CMakeSystem.cmake"
   "../init_vis.mac"
+  "../run0.mac"
   "../vis.mac"
   "/home/cmc/geant4/geant4-install/lib/Geant4-11.0.3/G4EXPATShim.cmake"
   "/home/cmc/geant4/geant4-install/lib/Geant4-11.0.3/G4X11Shim.cmake"
@@ -112,6 +113,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 set(CMAKE_MAKEFILE_PRODUCTS
   "init_vis.mac"
   "vis.mac"
+  "run0.mac"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 

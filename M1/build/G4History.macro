@@ -45,6 +45,12 @@
 /vis/scene/notifyHandlers
 /vis/set/colour
 /vis/set/lineWidth
+/vis/scene/add/text 0 70 5 cm 12 4 4 detector
+/vis/scene/notifyHandlers
+/vis/scene/add/text 0 70 35 cm 12 4 4 CoalSeam
+/vis/scene/notifyHandlers
+/vis/scene/add/text 0 70 65 cm 12 4 4 RockSeam
+/vis/scene/notifyHandlers
 /vis/geometry/set/visibility World 0 false
 /vis/scene/notifyHandlers
 /vis/geometry/set/colour detector 0 0.5 0 0
@@ -57,10 +63,13 @@
 /vis/viewer/set/style surface
 /vis/viewer/set/hiddenMarker false
 /vis/viewer/set/viewpointThetaPhi 120 150
-/vis/geometry/set/colour CoalsSeam 0 0.5 0 0
+/vis/geometry/set/colour CoalSeam 0 0 0.5 0
+/vis/scene/notifyHandlers
 /vis/viewer/set/style surface
 /vis/viewer/set/hiddenMarker false
 /vis/viewer/set/viewpointThetaPhi 120 150
 /vis/viewer/set/autoRefresh true
 /vis/viewer/refresh
 /vis/verbose warnings
+/vis/scene/endOfEventAction accumulate <-1>
+/run/beamOn 10

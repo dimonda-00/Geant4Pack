@@ -1,6 +1,6 @@
 #include "DetectorConstruction.hh"
 #include "ActionInitialization.hh"
-
+#include "PhysicsList.hh"
 #include "G4RunManagerFactory.hh"
 #include "G4SteppingVerbose.hh"
 #include "G4UImanager.hh"
@@ -39,9 +39,9 @@ int main(int argc,char** argv)
   runManager->SetUserInitialization(new DetectorConstruction());
 
   // Physics list
-  G4VModularPhysicsList* physicsList = new QBBC;
-  physicsList->SetVerboseLevel(1);
-  runManager->SetUserInitialization(physicsList);
+  //G4VModularPhysicsList* physicsList = new QBBC;
+  //physicsList->SetVerboseLevel(1);
+  runManager->SetUserInitialization(new PhysicsList);
 
   // User action initialization
   runManager->SetUserInitialization(new ActionInitialization());

@@ -52,6 +52,8 @@ target_link_libraries(M1 ${Geant4_LIBRARIES})
 set(EXAMPLEM1_SCRIPTS
 init_vis.mac
 vis.mac 
+run0.mac
+
   )
 #下面这俩我不知道要不要加
 
