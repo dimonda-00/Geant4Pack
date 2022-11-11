@@ -539,8 +539,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/cmc/geant4/geant4-build/M1/build",
-		"source" : "/home/cmc/geant4/geant4-build/M1"
+		"build" : "/home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1/build",
+		"source" : "/home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1"
 	},
 	"version" : 
 	{

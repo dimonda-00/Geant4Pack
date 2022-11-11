@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/cmc/geant4/geant4-build/M1/build"
+			"value" : "/home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -667,7 +667,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/cmc/geant4/geant4-build/M1"
+			"value" : "/home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1319,7 +1319,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/cmc/geant4/geant4-build/M1/build"
+			"value" : "/home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1/build"
 		},
 		{
 			"name" : "M1_SOURCE_DIR",
@@ -1331,7 +1331,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/cmc/geant4/geant4-build/M1"
+			"value" : "/home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1"
 		},
 		{
 			"name" : "OPENGL_EGL_INCLUDE_DIR",

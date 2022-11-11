@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "M1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-M1-Debug-75b4ab41c7b3106f52d5.json",
+					"jsonFile" : "target-M1-Debug-e941e9efa848c83b0047.json",
 					"name" : "M1",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/cmc/geant4/geant4-build/M1/build",
-		"source" : "/home/cmc/geant4/geant4-build/M1"
+		"build" : "/home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1/build",
+		"source" : "/home/cmc/geant4/geant4-build/GitBase/Geant4Pack/M1"
 	},
 	"version" : 
 	{
