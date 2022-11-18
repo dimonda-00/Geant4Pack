@@ -62,11 +62,12 @@ void SteppingAction::UserSteppingAction(const G4Step* step)
   //
   std::ofstream myData;
   myData.open("MyData.txt", std::ios::app);
-  myData<<evtid<<"	"<<trackID<<"	"<<parentID<<"	"<<stepID<<"	"
-	<<xyzTrack<<"	"<<xyzPost<<"	"
-	<<xyzTrack[0]<<"	"<<xyzTrack[1]<<"	"<<xyzTrack[2]<<"	"
-	<<particalName<<"	"<<globalTime<<"	"
-	<<G4endl;
-  
+  myData<<"//This is a new data//"<<G4endl;
+  myData<<"evtid: "<<evtid<<"//"<<"trackID: "<<trackID<<"//"<<"parentID: "<<parentID<<"//"<<"stepID: "<<stepID<<G4endl;
+	myData<<"xyzPost"<<xyzPost<<G4endl;
+  myData<<"xyzTrack:"<<xyzTrack<<"//"<<G4endl;
+  myData<<"xyzTracks:"<<xyzTrack[0]<<"//"<<xyzTrack[1]<<"//"<<xyzTrack[2]<<G4endl;
+	myData<<"particalName:"<<particalName<<G4endl;
+  myData<<"globalTime:"<<globalTime<<G4endl;
 
 }

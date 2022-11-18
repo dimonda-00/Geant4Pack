@@ -72,4 +72,5 @@
 /vis/viewer/refresh
 /vis/verbose warnings
 /vis/scene/endOfEventAction accumulate <-1>
-/run/beamOn 10
+/run/beamOn 1
+/run/beamOn 1

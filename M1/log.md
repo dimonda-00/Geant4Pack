@@ -39,7 +39,7 @@ detector材料还没设置
 注意：今天在StepAction.cc的
 void SteppingAction::UserSteppingAction(const G4Step* step)
 函数后附加了数据输出部分，目的为在该文件夹生成一个“myData.txt”文件
-但运行后该文件未出现，需要debug。
+但运行后该文件未出现，需要debug。不知道为啥就出现了。（22/11/18）
 
 注意：今天在gui模式下运行存在内存占用过高情况，
 初步判断是在RockSeam和CoalSeam内次级粒子运算占用所致，

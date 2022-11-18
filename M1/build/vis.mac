@@ -120,7 +120,8 @@
 /vis/viewer/set/style surface
 /vis/viewer/set/hiddenMarker false #边界透明
 /vis/viewer/set/viewpointThetaPhi 120 150
-#
+# 视角调节 
+# /vis/viewer/set/upVector [x] [y] [z]
 # Re-establish auto refreshing and verbosity:
 /vis/viewer/set/autoRefresh true
 /vis/verbose warnings
