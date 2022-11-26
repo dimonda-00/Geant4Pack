@@ -2,8 +2,6 @@
 #include "RunAction.hh"
 #include "PrimaryGeneratorAction.hh"
 #include "DetectorConstruction.hh"
-// #include "Run.hh"
-
 #include "G4RunManager.hh"
 #include "G4Run.hh"
 #include "G4AccumulableManager.hh"
@@ -15,6 +13,38 @@
 
 RunAction::RunAction()
 {
+  // set printing event number per each event
+  G4RunManager::GetRunManager()->SetPrintProgress(1);
+
+  // Create analysis manager
+  // The choice of analysis technology is done via selectin of a namespace
+  // in Analysis.hh
+  auto analysisManager = G4AnalysisManager::Instance();
+
+  // Create directories
+  //analysisManager->SetHistoDirectoryName("histograms");
+  //analysisManager->SetNtupleDirectoryName("ntuple");
+  analysisManager->SetVerboseLevel(1);
+  analysisManager->SetNtupleMerging(true);
+    // Note: merging ntuples is available only with Root output
+
+  // Book histograms, ntuple
+  //
+
+  // Creating histograms
+  analysisManager->CreateH1("Eabs","Edep in absorber", 100, 0., 800*MeV);
+  analysisManager->CreateH1("Egap","Edep in gap", 100, 0., 100*MeV);
+  analysisManager->CreateH1("Labs","trackL in absorber", 100, 0., 1*m);
+  analysisManager->CreateH1("Lgap","trackL in gap", 100, 0., 50*cm);
+
+  // Creating ntuple
+  //
+  analysisManager->CreateNtuple("B4", "Edep and TrackL");
+  analysisManager->CreateNtupleDColumn("Eabs");
+  analysisManager->CreateNtupleDColumn("Egap");
+  analysisManager->CreateNtupleDColumn("Labs");
+  analysisManager->CreateNtupleDColumn("Lgap");
+  analysisManager->FinishNtuple();
   // add new units for dose
   //
   const G4double milligray = 1.e-3*gray;
@@ -31,9 +61,6 @@ RunAction::RunAction()
   G4AccumulableManager* accumulableManager = G4AccumulableManager::Instance();
   accumulableManager->RegisterAccumulable(fEdep);
   accumulableManager->RegisterAccumulable(fEdep2);
-  std::ofstream myData;
-  myData.open("MyData.data",std::ios::out);
-  myData.close();
 }
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
@@ -43,7 +70,7 @@ RunAction::~RunAction()
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
-void RunAction::BeginOfRunAction(const G4Run*)
+void RunAction::BeginOfRunAction(const G4Run* run)
 {
   // inform the runManager to save random number seed
   G4RunManager::GetRunManager()->SetRandomNumberStore(false);
@@ -51,6 +78,23 @@ void RunAction::BeginOfRunAction(const G4Run*)
   // reset accumulables to their initial values
   G4AccumulableManager* accumulableManager = G4AccumulableManager::Instance();
   accumulableManager->Reset();
+  G4cout << "### Run " << run->GetRunID() << " start." << G4endl;
+
+  //inform the runManager to save random number seed
+  //G4RunManager::GetRunManager()->SetRandomNumberStore(true);
+
+  // Get analysis manager
+  auto analysisManager = G4AnalysisManager::Instance();
+
+  // Open an output file
+  //
+  G4String fileName = "M1.root";
+  // Other supported output types:
+  // G4String fileName = "M1.csv";
+  // G4String fileName = "M1.hdf5";
+  // G4String fileName = "M1.xml";
+  analysisManager->OpenFile(fileName);
+  G4cout << "Using " << analysisManager->GetType() << G4endl;
 
 }
 
@@ -119,6 +163,44 @@ void RunAction::EndOfRunAction(const G4Run* run)
      << "------------------------------------------------------------"
      << G4endl
      << G4endl;
+
+     // print histogram statistics
+  //
+  auto analysisManager = G4AnalysisManager::Instance();
+  if ( analysisManager->GetH1(1) ) {
+    G4cout << G4endl << " ----> print histograms statistic ";
+    if(isMaster) {
+      G4cout << "for the entire run " << G4endl << G4endl;
+    }
+    else {
+      G4cout << "for the local thread " << G4endl << G4endl;
+    }
+
+    G4cout << " EAbs : mean = "
+       << G4BestUnit(analysisManager->GetH1(0)->mean(), "Energy")
+       << " rms = "
+       << G4BestUnit(analysisManager->GetH1(0)->rms(),  "Energy") << G4endl;
+
+    G4cout << " EGap : mean = "
+       << G4BestUnit(analysisManager->GetH1(1)->mean(), "Energy")
+       << " rms = "
+       << G4BestUnit(analysisManager->GetH1(1)->rms(),  "Energy") << G4endl;
+
+    G4cout << " LAbs : mean = "
+      << G4BestUnit(analysisManager->GetH1(2)->mean(), "Length")
+      << " rms = "
+      << G4BestUnit(analysisManager->GetH1(2)->rms(),  "Length") << G4endl;
+
+    G4cout << " LGap : mean = "
+      << G4BestUnit(analysisManager->GetH1(3)->mean(), "Length")
+      << " rms = "
+      << G4BestUnit(analysisManager->GetH1(3)->rms(),  "Length") << G4endl;
+  }
+
+  // save histograms & ntuple
+  //
+  analysisManager->Write();
+  analysisManager->CloseFile();
 }
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......

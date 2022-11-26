@@ -4,7 +4,7 @@
 #include "G4RunManager.hh"
 #include "G4UnitsTable.hh"
 
-{
+
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
@@ -51,4 +51,4 @@ void RunData::Reset()
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
-}
+

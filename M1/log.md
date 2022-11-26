@@ -53,4 +53,5 @@ Todo：
 * 基于上一条：通过mac脚本控制读取数据来自SteppingAction还是灵敏探测器
 # 11/26
 今天添加rundata.cc&hh文件，还没测试效果，之后在runaction加root文件生成功能。下班。
+* 23:20 已经可以生成root文件了，生成了啥还没看出来。
 

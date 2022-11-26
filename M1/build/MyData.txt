@@ -1489,3 +1489,2719 @@ xyzTrack:(-378.672,30.2704,549.901)//
 xyzTracks:-378.672//30.2704//549.901
 particalName:e-
 globalTime:0.0958637
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(-52.597,1.87221,600.977)
+xyzTrack:(-52.597,1.87221,600.977)//
+xyzTracks:-52.597//1.87221//600.977
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(127.842,-534.049,747.039)
+xyzTrack:(127.842,-534.049,747.039)//
+xyzTracks:127.842//-534.049//747.039
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(-52.597,1.87221,599.083)
+xyzTrack:(-52.597,1.87221,599.083)//
+xyzTracks:-52.597//1.87221//599.083
+particalName:gamma
+globalTime:0.00631731
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(-415.9,274.458,681.358)
+xyzTrack:(-415.9,274.458,681.358)//
+xyzTracks:-415.9//274.458//681.358
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(127.842,-534.049,713.391)
+xyzTrack:(127.842,-534.049,713.391)//
+xyzTracks:127.842//-534.049//713.391
+particalName:gamma
+globalTime:0.112239
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(-16.1431,2.03157,553.055)
+xyzTrack:(-16.1431,2.03157,553.055)//
+xyzTracks:-16.1431//2.03157//553.055
+particalName:gamma
+globalTime:0.202171
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(-415.9,274.458,629.809)
+xyzTrack:(-415.9,274.458,629.809)//
+xyzTracks:-415.9//274.458//629.809
+particalName:gamma
+globalTime:0.171947
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(-443.615,-26.1738,762.783)
+xyzTrack:(-443.615,-26.1738,762.783)//
+xyzTracks:-443.615//-26.1738//762.783
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(374.956,506.116,790.542)
+xyzTrack:(374.956,506.116,790.542)//
+xyzTracks:374.956//506.116//790.542
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(-443.615,-26.1738,718.908)
+xyzTrack:(-443.615,-26.1738,718.908)//
+xyzTracks:-443.615//-26.1738//718.908
+particalName:gamma
+globalTime:0.146349
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(434.462,287.136,776.571)
+xyzTrack:(434.462,287.136,776.571)//
+xyzTracks:434.462//287.136//776.571
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(-415.465,273.805,619.813)
+xyzTrack:(-415.465,273.805,619.813)//
+xyzTracks:-415.465//273.805//619.813
+particalName:gamma
+globalTime:0.205394
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(-458.994,-41.1301,714.53)
+xyzTrack:(-458.994,-41.1301,714.53)//
+xyzTracks:-458.994//-41.1301//714.53
+particalName:gamma
+globalTime:0.219382
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(434.462,287.136,774.224)
+xyzTrack:(434.462,287.136,774.224)//
+xyzTracks:434.462//287.136//774.224
+particalName:gamma
+globalTime:0.00782881
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(374.956,506.116,721.348)
+xyzTrack:(374.956,506.116,721.348)//
+xyzTracks:374.956//506.116//721.348
+particalName:gamma
+globalTime:0.230803
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(207.216,67.0205,676.862)
+xyzTrack:(207.216,67.0205,676.862)//
+xyzTracks:207.216//67.0205//676.862
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(156.471,-525.89,699.921)
+xyzTrack:(156.471,-525.89,699.921)//
+xyzTracks:156.471//-525.89//699.921
+particalName:gamma
+globalTime:0.221227
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(-3.88544,-0.285129,524.86)
+xyzTrack:(-3.88544,-0.285129,524.86)//
+xyzTracks:-3.88544//-0.285129//524.86
+particalName:gamma
+globalTime:0.305012
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(-416.702,269.005,616.094)
+xyzTrack:(-416.702,269.005,616.094)//
+xyzTracks:-416.702//269.005//616.094
+particalName:gamma
+globalTime:0.226065
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(154.057,-529.364,686.648)
+xyzTrack:(154.057,-529.364,686.648)//
+xyzTracks:154.057//-529.364//686.648
+particalName:gamma
+globalTime:0.267696
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(-6.40962,5.35696,529.256)
+xyzTrack:(-6.40962,5.35696,529.256)//
+xyzTracks:-6.40962//5.35696//529.256
+particalName:gamma
+globalTime:0.330313
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(215.382,-259.655,500)
+xyzTrack:(215.382,-259.655,500)//
+xyzTracks:215.382//-259.655//500
+particalName:gamma
+globalTime:0.329895
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(-422.404,256.919,602.702)
+xyzTrack:(-422.404,256.919,602.702)//
+xyzTracks:-422.404//256.919//602.702
+particalName:gamma
+globalTime:0.289172
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(-461.871,-82.2433,721.003)
+xyzTrack:(-461.871,-82.2433,721.003)//
+xyzTracks:-461.871//-82.2433//721.003
+particalName:gamma
+globalTime:0.358542
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(390.65,265.518,750.883)
+xyzTrack:(390.65,265.518,750.883)//
+xyzTracks:390.65//265.518//750.883
+particalName:gamma
+globalTime:0.188436
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(354.289,515.382,674.389)
+xyzTrack:(354.289,515.382,674.389)//
+xyzTracks:354.289//515.382//674.389
+particalName:gamma
+globalTime:0.404711
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(207.216,67.0205,673.271)
+xyzTrack:(207.216,67.0205,673.271)//
+xyzTracks:207.216//67.0205//673.271
+particalName:gamma
+globalTime:0.0119796
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(-461.139,-75.6457,737.7)
+xyzTrack:(-461.139,-75.6457,737.7)//
+xyzTracks:-461.139//-75.6457//737.7
+particalName:gamma
+globalTime:0.418475
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(390.717,265.603,750.881)
+xyzTrack:(390.717,265.603,750.881)//
+xyzTracks:390.717//265.603//750.881
+particalName:gamma
+globalTime:0.188795
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(365.151,508.768,643.651)
+xyzTrack:(365.151,508.768,643.651)//
+xyzTracks:365.151//508.768//643.651
+particalName:gamma
+globalTime:0.515669
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(218.031,74.8568,644.939)
+xyzTrack:(218.031,74.8568,644.939)//
+xyzTracks:218.031//74.8568//644.939
+particalName:gamma
+globalTime:0.116456
+//This is a new data//
+evtid: 0//trackID: 4//parentID: 1//stepID: 1
+xyzPost(154.084,-529.338,686.521)
+xyzTrack:(154.084,-529.338,686.521)//
+xyzTracks:154.084//-529.338//686.521
+particalName:e-
+globalTime:0.268269
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(-9.59145,10.1352,532.467)
+xyzTrack:(-9.59145,10.1352,532.467)//
+xyzTracks:-9.59145//10.1352//532.467
+particalName:gamma
+globalTime:0.352254
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(215.382,-259.655,238.756)
+xyzTrack:(215.382,-259.655,238.756)//
+xyzTracks:215.382//-259.655//238.756
+particalName:gamma
+globalTime:1.20131
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(-433.449,253.005,592.1)
+xyzTrack:(-433.449,253.005,592.1)//
+xyzTracks:-433.449//253.005//592.1
+particalName:gamma
+globalTime:0.341882
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(-515.545,-29.6458,755.683)
+xyzTrack:(-515.545,-29.6458,755.683)//
+xyzTracks:-515.545//-29.6458//755.683
+particalName:gamma
+globalTime:0.663579
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(372.701,252.845,739.461)
+xyzTrack:(372.701,252.845,739.461)//
+xyzTracks:372.701//252.845//739.461
+particalName:gamma
+globalTime:0.271702
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(401.383,490.472,544.345)
+xyzTrack:(401.383,490.472,544.345)//
+xyzTracks:401.383//490.472//544.345
+particalName:gamma
+globalTime:0.87352
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(236.064,86.2399,601.571)
+xyzTrack:(236.064,86.2399,601.571)//
+xyzTracks:236.064//86.2399//601.571
+particalName:gamma
+globalTime:0.27766
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(-138.329,-93.3831,568.798)
+xyzTrack:(-138.329,-93.3831,568.798)//
+xyzTracks:-138.329//-93.3831//568.798
+particalName:gamma
+globalTime:0.019253
+//This is a new data//
+evtid: 0//trackID: 3//parentID: 1//stepID: 1
+xyzPost(156.57,-525.851,699.931)
+xyzTrack:(156.57,-525.851,699.931)//
+xyzTracks:156.57//-525.851//699.931
+particalName:e-
+globalTime:0.221708
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(14.8132,-13.7326,539.276)
+xyzTrack:(14.8132,-13.7326,539.276)//
+xyzTracks:14.8132//-13.7326//539.276
+particalName:gamma
+globalTime:0.468362
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(217.302,-258.752,200)
+xyzTrack:(217.302,-258.752,200)//
+xyzTracks:217.302//-258.752//200
+particalName:gamma
+globalTime:1.33078
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(-600,244.244,652.822)
+xyzTrack:(-600,244.244,652.822)//
+xyzTracks:-600//244.244//652.822
+particalName:gamma
+globalTime:0.933929
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(-378.92,30.6162,550.764)
+xyzTrack:(-378.92,30.6162,550.764)//
+xyzTracks:-378.92//30.6162//550.764
+particalName:gamma
+globalTime:0.0919492
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(-514.603,-32.6291,758.07)
+xyzTrack:(-514.603,-32.6291,758.07)//
+xyzTracks:-514.603//-32.6291//758.07
+particalName:gamma
+globalTime:0.676705
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(373.829,256.683,738.897)
+xyzTrack:(373.829,256.683,738.897)//
+xyzTracks:373.829//256.683//738.897
+particalName:gamma
+globalTime:0.285177
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(402.685,493.662,545.696)
+xyzTrack:(402.685,493.662,545.696)//
+xyzTracks:402.685//493.662//545.696
+particalName:gamma
+globalTime:0.885866
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(219.497,101.732,593.159)
+xyzTrack:(219.497,101.732,593.159)//
+xyzTracks:219.497//101.732//593.159
+particalName:gamma
+globalTime:0.358353
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(-122.09,-95.9671,555.792)
+xyzTrack:(-122.09,-95.9671,555.792)//
+xyzTracks:-122.09//-95.9671//555.792
+particalName:gamma
+globalTime:0.089185
+//This is a new data//
+evtid: 0//trackID: 2//parentID: 1//stepID: 1
+xyzPost(127.588,-534.121,712.733)
+xyzTrack:(127.588,-534.121,712.733)//
+xyzTracks:127.588//-534.121//712.733
+particalName:e-
+globalTime:0.114772
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 8
+xyzPost(-36.7797,-38.7414,518.019)
+xyzTrack:(-36.7797,-38.7414,518.019)//
+xyzTracks:-36.7797//-38.7414//518.019
+particalName:gamma
+globalTime:0.672331
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(222.255,-256.423,100)
+xyzTrack:(222.255,-256.423,100)//
+xyzTracks:222.255//-256.423//100
+particalName:gamma
+globalTime:1.66484
+//This is a new data//
+evtid: 0//trackID: 6//parentID: 1//stepID: 1
+xyzPost(-433.46,252.984,592.017)
+xyzTrack:(-433.46,252.984,592.017)//
+xyzTracks:-433.46//252.984//592.017
+particalName:e-
+globalTime:0.342284
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(-401.992,92.8556,547.875)
+xyzTrack:(-401.992,92.8556,547.875)//
+xyzTracks:-401.992//92.8556//547.875
+particalName:gamma
+globalTime:0.313573
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 8
+xyzPost(-525.183,-35.3317,722.123)
+xyzTrack:(-525.183,-35.3317,722.123)//
+xyzTracks:-525.183//-35.3317//722.123
+particalName:gamma
+globalTime:0.80202
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(394.476,279.405,749.008)
+xyzTrack:(394.476,279.405,749.008)//
+xyzTracks:394.476//279.405//749.008
+particalName:gamma
+globalTime:0.393
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:gamma
+globalTime:0.912868
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(215.534,110.581,586.149)
+xyzTrack:(215.534,110.581,586.149)//
+xyzTracks:215.534//110.581//586.149
+particalName:gamma
+globalTime:0.398263
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(-106.441,-94.6126,561.389)
+xyzTrack:(-106.441,-94.6126,561.389)//
+xyzTracks:-106.441//-94.6126//561.389
+particalName:gamma
+globalTime:0.144805
+//This is a new data//
+evtid: 0//trackID: 2//parentID: 1//stepID: 2
+xyzPost(127.67,-534.07,712.861)
+xyzTrack:(127.67,-534.07,712.861)//
+xyzTracks:127.67//-534.07//712.861
+particalName:e-
+globalTime:0.115448
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 9
+xyzPost(-28.3414,-36.3877,524.346)
+xyzTrack:(-28.3414,-36.3877,524.346)//
+xyzTracks:-28.3414//-36.3877//524.346
+particalName:gamma
+globalTime:0.708375
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(227.207,-254.094,0)
+xyzTrack:(227.207,-254.094,0)//
+xyzTracks:227.207//-254.094//0
+particalName:gamma
+globalTime:1.99891
+//This is a new data//
+evtid: 0//trackID: 5//parentID: 1//stepID: 1
+xyzPost(-422.387,256.893,602.692)
+xyzTrack:(-422.387,256.893,602.692)//
+xyzTracks:-422.387//256.893//602.692
+particalName:e-
+globalTime:0.289355
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(-389.697,100.952,542.432)
+xyzTrack:(-389.697,100.952,542.432)//
+xyzTracks:-389.697//100.952//542.432
+particalName:gamma
+globalTime:0.365928
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 9
+xyzPost(-524.089,-34.3565,725.923)
+xyzTrack:(-524.089,-34.3565,725.923)//
+xyzTracks:-524.089//-34.3565//725.923
+particalName:gamma
+globalTime:0.815604
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 8
+xyzPost(397.188,284.429,748.375)
+xyzTrack:(397.188,284.429,748.375)//
+xyzTracks:397.188//284.429//748.375
+particalName:gamma
+globalTime:0.412159
+//This is a new data//
+evtid: 0//trackID: 14//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(211.084,102.095,580.384)
+xyzTrack:(211.084,102.095,580.384)//
+xyzTracks:211.084//102.095//580.384
+particalName:gamma
+globalTime:0.435564
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(-110.683,-94.3478,562.775)
+xyzTrack:(-110.683,-94.3478,562.775)//
+xyzTracks:-110.683//-94.3478//562.775
+particalName:gamma
+globalTime:0.159717
+//This is a new data//
+evtid: 0//trackID: 10//parentID: 1//stepID: 1
+xyzPost(-28.3414,-36.3877,524.346)
+xyzTrack:(-28.3414,-36.3877,524.346)//
+xyzTracks:-28.3414//-36.3877//524.346
+particalName:e-
+globalTime:0.708376
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(256.925,-240.118,-600)
+xyzTrack:(256.925,-240.118,-600)//
+xyzTracks:256.925//-240.118//-600
+particalName:gamma
+globalTime:4.00329
+//This is a new data//
+evtid: 0//trackID: 4//parentID: 1//stepID: 1
+xyzPost(-416.701,269.004,616.094)
+xyzTrack:(-416.701,269.004,616.094)//
+xyzTracks:-416.701//269.004//616.094
+particalName:e-
+globalTime:0.226081
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(-387.972,99.3583,542.556)
+xyzTrack:(-387.972,99.3583,542.556)//
+xyzTracks:-387.972//99.3583//542.556
+particalName:gamma
+globalTime:0.373771
+//This is a new data//
+evtid: 0//trackID: 13//parentID: 1//stepID: 1
+xyzPost(-524.089,-34.3565,725.923)
+xyzTrack:(-524.089,-34.3565,725.923)//
+xyzTracks:-524.089//-34.3565//725.923
+particalName:e-
+globalTime:0.815604
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 9
+xyzPost(394.014,275.462,752.061)
+xyzTrack:(394.014,275.462,752.061)//
+xyzTracks:394.014//275.462//752.061
+particalName:gamma
+globalTime:0.44619
+//This is a new data//
+evtid: 0//trackID: 13//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 8
+xyzPost(205.173,83.4571,579.315)
+xyzTrack:(205.173,83.4571,579.315)//
+xyzTracks:205.173//83.4571//579.315
+particalName:gamma
+globalTime:0.500884
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(-110.351,-102.272,567.895)
+xyzTrack:(-110.351,-102.272,567.895)//
+xyzTracks:-110.351//-102.272//567.895
+particalName:gamma
+globalTime:0.191206
+//This is a new data//
+evtid: 0//trackID: 9//parentID: 1//stepID: 1
+xyzPost(-28.3437,-36.3833,524.356)
+xyzTrack:(-28.3437,-36.3833,524.356)//
+xyzTracks:-28.3437//-36.3833//524.356
+particalName:e-
+globalTime:0.708459
+//This is a new data//
+evtid: 0//trackID: 2//parentID: 1//stepID: 1
+xyzPost(215.382,-259.655,238.756)
+xyzTrack:(215.382,-259.655,238.756)//
+xyzTracks:215.382//-259.655//238.756
+particalName:e-
+globalTime:1.20132
+//This is a new data//
+evtid: 0//trackID: 3//parentID: 1//stepID: 1
+xyzPost(-415.37,274.018,619.344)
+xyzTrack:(-415.37,274.018,619.344)//
+xyzTracks:-415.37//274.018//619.344
+particalName:e-
+globalTime:0.207309
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(-388.363,102.317,541.073)
+xyzTrack:(-388.363,102.317,541.073)//
+xyzTracks:-388.363//102.317//541.073
+particalName:gamma
+globalTime:0.384885
+//This is a new data//
+evtid: 0//trackID: 12//parentID: 1//stepID: 1
+xyzPost(-524.089,-34.3565,725.923)
+xyzTrack:(-524.089,-34.3565,725.923)//
+xyzTracks:-524.089//-34.3565//725.923
+particalName:e-
+globalTime:0.815604
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 10
+xyzPost(393.797,274.231,752.852)
+xyzTrack:(393.797,274.231,752.852)//
+xyzTracks:393.797//274.231//752.852
+particalName:gamma
+globalTime:0.451122
+//This is a new data//
+evtid: 0//trackID: 12//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 9
+xyzPost(203.915,72.1905,583.586)
+xyzTrack:(203.915,72.1905,583.586)//
+xyzTracks:203.915//72.1905//583.586
+particalName:gamma
+globalTime:0.541294
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(-88.4343,-74.3721,542.615)
+xyzTrack:(-88.4343,-74.3721,542.615)//
+xyzTracks:-88.4343//-74.3721//542.615
+particalName:gamma
+globalTime:0.336519
+//This is a new data//
+evtid: 1//trackID: 8//parentID: 1//stepID: 1
+xyzPost(-36.7813,-38.742,518.019)
+xyzTrack:(-36.7813,-38.742,518.019)//
+xyzTracks:-36.7813//-38.742//518.019
+particalName:e-
+globalTime:0.672353
+//This is a new data//
+evtid: 1//trackID: 3//parentID: 1//stepID: 2
+xyzPost(-415.354,274.012,619.322)
+xyzTrack:(-415.354,274.012,619.322)//
+xyzTracks:-415.354//274.012//619.322
+particalName:e-
+globalTime:0.207475
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 6
+xyzPost(-386.4,101.769,541.183)
+xyzTrack:(-386.4,101.769,541.183)//
+xyzTracks:-386.4//101.769//541.183
+particalName:gamma
+globalTime:0.391694
+//This is a new data//
+evtid: 1//trackID: 11//parentID: 1//stepID: 1
+xyzPost(-524.089,-34.3565,725.923)
+xyzTrack:(-524.089,-34.3565,725.923)//
+xyzTracks:-524.089//-34.3565//725.923
+particalName:e-
+globalTime:0.815604
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 11
+xyzPost(389.315,270.217,754.059)
+xyzTrack:(389.315,270.217,754.059)//
+xyzTracks:389.315//270.217//754.059
+particalName:gamma
+globalTime:0.471593
+//This is a new data//
+evtid: 1//trackID: 11//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 10
+xyzPost(175.475,36.5707,582.754)
+xyzTrack:(175.475,36.5707,582.754)//
+xyzTracks:175.475//36.5707//582.754
+particalName:gamma
+globalTime:0.69336
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 7
+xyzPost(-88.8161,-73.5288,542.113)
+xyzTrack:(-88.8161,-73.5288,542.113)//
+xyzTracks:-88.8161//-73.5288//542.113
+particalName:gamma
+globalTime:0.340032
+//This is a new data//
+evtid: 1//trackID: 7//parentID: 1//stepID: 1
+xyzPost(14.8159,-13.7334,539.277)
+xyzTrack:(14.8159,-13.7334,539.277)//
+xyzTracks:14.8159//-13.7334//539.277
+particalName:e-
+globalTime:0.468392
+//This is a new data//
+evtid: 1//trackID: 2//parentID: 1//stepID: 1
+xyzPost(-415.9,274.458,629.809)
+xyzTrack:(-415.9,274.458,629.809)//
+xyzTracks:-415.9//274.458//629.809
+particalName:e-
+globalTime:0.171956
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 7
+xyzPost(-373.237,102.336,544.404)
+xyzTrack:(-373.237,102.336,544.404)//
+xyzTracks:-373.237//102.336//544.404
+particalName:gamma
+globalTime:0.436935
+//This is a new data//
+evtid: 1//trackID: 10//parentID: 1//stepID: 1
+xyzPost(-524.089,-34.3565,725.923)
+xyzTrack:(-524.089,-34.3565,725.923)//
+xyzTracks:-524.089//-34.3565//725.923
+particalName:e-
+globalTime:0.815605
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 12
+xyzPost(385.555,279.675,750.083)
+xyzTrack:(385.555,279.675,750.083)//
+xyzTracks:385.555//279.675//750.083
+particalName:gamma
+globalTime:0.508044
+//This is a new data//
+evtid: 1//trackID: 10//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 11
+xyzPost(178.434,38.2902,594.331)
+xyzTrack:(178.434,38.2902,594.331)//
+xyzTracks:178.434//38.2902//594.331
+particalName:gamma
+globalTime:0.733628
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 8
+xyzPost(-94.9529,-74.7806,547.87)
+xyzTrack:(-94.9529,-74.7806,547.87)//
+xyzTracks:-94.9529//-74.7806//547.87
+particalName:gamma
+globalTime:0.368408
+//This is a new data//
+evtid: 1//trackID: 6//parentID: 1//stepID: 1
+xyzPost(-9.60365,10.1507,532.472)
+xyzTrack:(-9.60365,10.1507,532.472)//
+xyzTracks:-9.60365//10.1507//532.472
+particalName:e-
+globalTime:0.352381
+//This is a new data//
+evtid: 2//trackID: 1//parentID: 0//stepID: 8
+xyzPost(-377.384,105.646,542.133)
+xyzTrack:(-377.384,105.646,542.133)//
+xyzTracks:-377.384//105.646//542.133
+particalName:gamma
+globalTime:0.456185
+//This is a new data//
+evtid: 2//trackID: 9//parentID: 1//stepID: 1
+xyzPost(-524.097,-34.3539,725.926)
+xyzTrack:(-524.097,-34.3539,725.926)//
+xyzTracks:-524.097//-34.3539//725.926
+particalName:e-
+globalTime:0.815673
+//This is a new data//
+evtid: 2//trackID: 13//parentID: 1//stepID: 1
+xyzPost(385.555,279.675,750.083)
+xyzTrack:(385.555,279.675,750.083)//
+xyzTracks:385.555//279.675//750.083
+particalName:e-
+globalTime:0.508044
+//This is a new data//
+evtid: 2//trackID: 9//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 2//trackID: 1//parentID: 0//stepID: 12
+xyzPost(189.853,46.6519,600.64)
+xyzTrack:(189.853,46.6519,600.64)//
+xyzTracks:189.853//46.6519//600.64
+particalName:gamma
+globalTime:0.785317
+//This is a new data//
+evtid: 2//trackID: 10//parentID: 1//stepID: 1
+xyzPost(-94.9529,-74.7806,547.87)
+xyzTrack:(-94.9529,-74.7806,547.87)//
+xyzTracks:-94.9529//-74.7806//547.87
+particalName:e-
+globalTime:0.368408
+//This is a new data//
+evtid: 2//trackID: 5//parentID: 1//stepID: 1
+xyzPost(-6.40961,5.35696,529.256)
+xyzTrack:(-6.40961,5.35696,529.256)//
+xyzTracks:-6.40961//5.35696//529.256
+particalName:e-
+globalTime:0.330314
+//This is a new data//
+evtid: 2//trackID: 1//parentID: 0//stepID: 9
+xyzPost(-370.282,105.157,540.745)
+xyzTrack:(-370.282,105.157,540.745)//
+xyzTracks:-370.282//105.157//540.745
+particalName:gamma
+globalTime:0.480378
+//This is a new data//
+evtid: 2//trackID: 8//parentID: 1//stepID: 1
+xyzPost(-525.183,-35.3319,722.122)
+xyzTrack:(-525.183,-35.3319,722.122)//
+xyzTracks:-525.183//-35.3319//722.122
+particalName:e-
+globalTime:0.802036
+//This is a new data//
+evtid: 2//trackID: 12//parentID: 1//stepID: 1
+xyzPost(385.555,279.675,750.083)
+xyzTrack:(385.555,279.675,750.083)//
+xyzTracks:385.555//279.675//750.083
+particalName:e-
+globalTime:0.508044
+//This is a new data//
+evtid: 2//trackID: 8//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 2//trackID: 15//parentID: 1//stepID: 1
+xyzPost(189.853,46.6519,600.64)
+xyzTrack:(189.853,46.6519,600.64)//
+xyzTracks:189.853//46.6519//600.64
+particalName:e-
+globalTime:0.785317
+//This is a new data//
+evtid: 2//trackID: 9//parentID: 1//stepID: 1
+xyzPost(-94.9426,-74.7831,547.876)
+xyzTrack:(-94.9426,-74.7831,547.876)//
+xyzTracks:-94.9426//-74.7831//547.876
+particalName:e-
+globalTime:0.368493
+//This is a new data//
+evtid: 2//trackID: 4//parentID: 1//stepID: 1
+xyzPost(-3.71484,-0.379692,524.484)
+xyzTrack:(-3.71484,-0.379692,524.484)//
+xyzTracks:-3.71484//-0.379692//524.484
+particalName:e-
+globalTime:0.306591
+//This is a new data//
+evtid: 3//trackID: 1//parentID: 0//stepID: 10
+xyzPost(-360.19,101.709,553.24)
+xyzTrack:(-360.19,101.709,553.24)//
+xyzTracks:-360.19//101.709//553.24
+particalName:gamma
+globalTime:0.535175
+//This is a new data//
+evtid: 3//trackID: 7//parentID: 1//stepID: 1
+xyzPost(-514.602,-32.6301,758.072)
+xyzTrack:(-514.602,-32.6301,758.072)//
+xyzTracks:-514.602//-32.6301//758.072
+particalName:e-
+globalTime:0.67673
+//This is a new data//
+evtid: 3//trackID: 11//parentID: 1//stepID: 1
+xyzPost(385.555,279.675,750.083)
+xyzTrack:(385.555,279.675,750.083)//
+xyzTracks:385.555//279.675//750.083
+particalName:e-
+globalTime:0.508046
+//This is a new data//
+evtid: 3//trackID: 7//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912871
+//This is a new data//
+evtid: 3//trackID: 14//parentID: 1//stepID: 1
+xyzPost(189.853,46.6519,600.64)
+xyzTrack:(189.853,46.6519,600.64)//
+xyzTracks:189.853//46.6519//600.64
+particalName:e-
+globalTime:0.785317
+//This is a new data//
+evtid: 3//trackID: 8//parentID: 1//stepID: 1
+xyzPost(-88.8159,-73.5284,542.112)
+xyzTrack:(-88.8159,-73.5284,542.112)//
+xyzTracks:-88.8159//-73.5284//542.112
+particalName:e-
+globalTime:0.340042
+//This is a new data//
+evtid: 3//trackID: 4//parentID: 1//stepID: 2
+xyzPost(-3.7137,-0.379627,524.487)
+xyzTrack:(-3.7137,-0.379627,524.487)//
+xyzTracks:-3.7137//-0.379627//524.487
+particalName:e-
+globalTime:0.306621
+//This is a new data//
+evtid: 3//trackID: 1//parentID: 0//stepID: 11
+xyzPost(-363.443,96.6368,550.162)
+xyzTrack:(-363.443,96.6368,550.162)//
+xyzTracks:-363.443//96.6368//550.162
+particalName:gamma
+globalTime:0.557746
+//This is a new data//
+evtid: 3//trackID: 6//parentID: 1//stepID: 1
+xyzPost(-515.549,-29.6405,755.682)
+xyzTrack:(-515.549,-29.6405,755.682)//
+xyzTracks:-515.549//-29.6405//755.682
+particalName:e-
+globalTime:0.663634
+//This is a new data//
+evtid: 3//trackID: 10//parentID: 1//stepID: 1
+xyzPost(385.552,279.681,750.085)
+xyzTrack:(385.552,279.681,750.085)//
+xyzTracks:385.552//279.681//750.085
+particalName:e-
+globalTime:0.508097
+//This is a new data//
+evtid: 3//trackID: 6//parentID: 1//stepID: 1
+xyzPost(400.836,491.089,538.222)
+xyzTrack:(400.836,491.089,538.222)//
+xyzTracks:400.836//491.089//538.222
+particalName:e-
+globalTime:0.913057
+//This is a new data//
+evtid: 3//trackID: 13//parentID: 1//stepID: 1
+xyzPost(189.852,46.6571,600.651)
+xyzTrack:(189.852,46.6571,600.651)//
+xyzTracks:189.852//46.6571//600.651
+particalName:gamma
+globalTime:0.785358
+//This is a new data//
+evtid: 3//trackID: 7//parentID: 1//stepID: 1
+xyzPost(-88.4342,-74.3721,542.615)
+xyzTrack:(-88.4342,-74.3721,542.615)//
+xyzTracks:-88.4342//-74.3721//542.615
+particalName:e-
+globalTime:0.336522
+//This is a new data//
+evtid: 3//trackID: 3//parentID: 1//stepID: 1
+xyzPost(-16.1357,2.03375,553.057)
+xyzTrack:(-16.1357,2.03375,553.057)//
+xyzTracks:-16.1357//2.03375//553.057
+particalName:e-
+globalTime:0.202233
+//This is a new data//
+evtid: 3//trackID: 1//parentID: 0//stepID: 12
+xyzPost(-363.628,96.8365,550.444)
+xyzTrack:(-363.628,96.8365,550.444)//
+xyzTracks:-363.628//96.8365//550.444
+particalName:gamma
+globalTime:0.559054
+//This is a new data//
+evtid: 3//trackID: 5//parentID: 1//stepID: 1
+xyzPost(-461.137,-75.6462,737.702)
+xyzTrack:(-461.137,-75.6462,737.702)//
+xyzTracks:-461.137//-75.6462//737.702
+particalName:e-
+globalTime:0.418507
+//This is a new data//
+evtid: 3//trackID: 9//parentID: 1//stepID: 1
+xyzPost(389.315,270.216,754.06)
+xyzTrack:(389.315,270.216,754.06)//
+xyzTracks:389.315//270.216//754.06
+particalName:e-
+globalTime:0.471598
+//This is a new data//
+evtid: 3//trackID: 5//parentID: 1//stepID: 1
+xyzPost(402.693,493.68,545.712)
+xyzTrack:(402.693,493.68,545.712)//
+xyzTracks:402.693//493.68//545.712
+particalName:e-
+globalTime:0.886014
+//This is a new data//
+evtid: 3//trackID: 17//parentID: 13//stepID: 1
+xyzPost(189.852,46.6571,600.651)
+xyzTrack:(189.852,46.6571,600.651)//
+xyzTracks:189.852//46.6571//600.651
+particalName:e-
+globalTime:0.785359
+//This is a new data//
+evtid: 3//trackID: 6//parentID: 1//stepID: 1
+xyzPost(-110.352,-102.275,567.898)
+xyzTrack:(-110.352,-102.275,567.898)//
+xyzTracks:-110.352//-102.275//567.898
+particalName:e-
+globalTime:0.19125
+//This is a new data//
+evtid: 3//trackID: 2//parentID: 1//stepID: 1
+xyzPost(-52.8089,1.87128,598.798)
+xyzTrack:(-52.8089,1.87128,598.798)//
+xyzTracks:-52.8089//1.87128//598.798
+particalName:e-
+globalTime:0.0076641
+//This is a new data//
+evtid: 3//trackID: 1//parentID: 0//stepID: 13
+xyzPost(-363.763,96.8397,550.463)
+xyzTrack:(-363.763,96.8397,550.463)//
+xyzTracks:-363.763//96.8397//550.463
+particalName:gamma
+globalTime:0.559508
+//This is a new data//
+evtid: 3//trackID: 4//parentID: 1//stepID: 1
+xyzPost(-461.874,-82.2913,720.989)
+xyzTrack:(-461.874,-82.2913,720.989)//
+xyzTracks:-461.874//-82.2913//720.989
+particalName:e-
+globalTime:0.358801
+//This is a new data//
+evtid: 3//trackID: 8//parentID: 1//stepID: 1
+xyzPost(394.014,275.462,752.061)
+xyzTrack:(394.014,275.462,752.061)//
+xyzTracks:394.014//275.462//752.061
+particalName:e-
+globalTime:0.44619
+//This is a new data//
+evtid: 3//trackID: 4//parentID: 1//stepID: 1
+xyzPost(401.424,490.378,544.14)
+xyzTrack:(401.424,490.378,544.14)//
+xyzTracks:401.424//490.378//544.14
+particalName:e-
+globalTime:0.874437
+//This is a new data//
+evtid: 3//trackID: 16//parentID: 13//stepID: 1
+xyzPost(189.852,46.6572,600.651)
+xyzTrack:(189.852,46.6572,600.651)//
+xyzTracks:189.852//46.6572//600.651
+particalName:e-
+globalTime:0.785362
+//This is a new data//
+evtid: 3//trackID: 5//parentID: 1//stepID: 1
+xyzPost(-110.687,-94.3451,562.774)
+xyzTrack:(-110.687,-94.3451,562.774)//
+xyzTracks:-110.687//-94.3451//562.774
+particalName:e-
+globalTime:0.159758
+//This is a new data//
+evtid: 3//trackID: 1//parentID: 0//stepID: 14
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:gamma
+globalTime:0.587069
+//This is a new data//
+evtid: 3//trackID: 3//parentID: 1//stepID: 1
+xyzPost(-459.013,-41.1275,714.52)
+xyzTrack:(-459.013,-41.1275,714.52)//
+xyzTracks:-459.013//-41.1275//714.52
+particalName:e-
+globalTime:0.219511
+//This is a new data//
+evtid: 3//trackID: 7//parentID: 1//stepID: 1
+xyzPost(397.188,284.43,748.375)
+xyzTrack:(397.188,284.43,748.375)//
+xyzTracks:397.188//284.43//748.375
+particalName:e-
+globalTime:0.412175
+//This is a new data//
+evtid: 3//trackID: 3//parentID: 1//stepID: 1
+xyzPost(354.065,515.494,674.247)
+xyzTrack:(354.065,515.494,674.247)//
+xyzTracks:354.065//515.494//674.247
+particalName:e-
+globalTime:0.40583
+//This is a new data//
+evtid: 3//trackID: 12//parentID: 1//stepID: 1
+xyzPost(189.855,46.6768,600.637)
+xyzTrack:(189.855,46.6768,600.637)//
+xyzTracks:189.855//46.6768//600.637
+particalName:e-
+globalTime:0.785466
+//This is a new data//
+evtid: 3//trackID: 4//parentID: 1//stepID: 1
+xyzPost(-106.339,-94.6082,561.405)
+xyzTrack:(-106.339,-94.6082,561.405)//
+xyzTracks:-106.339//-94.6082//561.405
+particalName:e-
+globalTime:0.145271
+//This is a new data//
+evtid: 3//trackID: 19//parentID: 1//stepID: 1
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:e-
+globalTime:0.587069
+//This is a new data//
+evtid: 3//trackID: 2//parentID: 1//stepID: 1
+xyzPost(-443.44,-26.0032,718.137)
+xyzTrack:(-443.44,-26.0032,718.137)//
+xyzTracks:-443.44//-26.0032//718.137
+particalName:e-
+globalTime:0.149212
+//This is a new data//
+evtid: 3//trackID: 6//parentID: 1//stepID: 1
+xyzPost(394.476,279.405,749.008)
+xyzTrack:(394.476,279.405,749.008)//
+xyzTracks:394.476//279.405//749.008
+particalName:e-
+globalTime:0.393
+//This is a new data//
+evtid: 3//trackID: 2//parentID: 1//stepID: 1
+xyzPost(375.062,506.068,721.245)
+xyzTrack:(375.062,506.068,721.245)//
+xyzTracks:375.062//506.068//721.245
+particalName:e-
+globalTime:0.231461
+//This is a new data//
+evtid: 3//trackID: 11//parentID: 1//stepID: 1
+xyzPost(178.434,38.2901,594.331)
+xyzTrack:(178.434,38.2901,594.331)//
+xyzTracks:178.434//38.2901//594.331
+particalName:e-
+globalTime:0.733635
+//This is a new data//
+evtid: 3//trackID: 3//parentID: 1//stepID: 1
+xyzPost(-122.059,-95.9921,555.673)
+xyzTrack:(-122.059,-95.9921,555.673)//
+xyzTracks:-122.059//-95.9921//555.673
+particalName:e-
+globalTime:0.089735
+//This is a new data//
+evtid: 4//trackID: 18//parentID: 1//stepID: 1
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:e-
+globalTime:0.587069
+//This is a new data//
+evtid: 4//trackID: 2//parentID: 1//stepID: 2
+xyzPost(-443.476,-25.8188,718.158)
+xyzTrack:(-443.476,-25.8188,718.158)//
+xyzTracks:-443.476//-25.8188//718.158
+particalName:e-
+globalTime:0.149988
+//This is a new data//
+evtid: 4//trackID: 5//parentID: 1//stepID: 1
+xyzPost(372.699,252.843,739.46)
+xyzTrack:(372.699,252.843,739.46)//
+xyzTracks:372.699//252.843//739.46
+particalName:e-
+globalTime:0.27173
+//This is a new data//
+evtid: 4//trackID: 10//parentID: 1//stepID: 1
+xyzPost(175.471,36.5657,582.75)
+xyzTrack:(175.471,36.5657,582.75)//
+xyzTracks:175.471//36.5657//582.75
+particalName:e-
+globalTime:0.693421
+//This is a new data//
+evtid: 4//trackID: 2//parentID: 1//stepID: 1
+xyzPost(-138.587,-93.3422,568.311)
+xyzTrack:(-138.587,-93.3422,568.311)//
+xyzTracks:-138.587//-93.3422//568.311
+particalName:e-
+globalTime:0.0212655
+//This is a new data//
+evtid: 4//trackID: 17//parentID: 1//stepID: 1
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:e-
+globalTime:0.587069
+//This is a new data//
+evtid: 4//trackID: 4//parentID: 1//stepID: 1
+xyzPost(390.727,265.613,750.883)
+xyzTrack:(390.727,265.613,750.883)//
+xyzTracks:390.727//265.613//750.883
+particalName:e-
+globalTime:0.188891
+//This is a new data//
+evtid: 4//trackID: 9//parentID: 1//stepID: 1
+xyzPost(203.915,72.1902,583.587)
+xyzTrack:(203.915,72.1902,583.587)//
+xyzTracks:203.915//72.1902//583.587
+particalName:e-
+globalTime:0.541305
+//This is a new data//
+evtid: 4//trackID: 2//parentID: 1//stepID: 2
+xyzPost(-138.549,-93.3189,568.286)
+xyzTrack:(-138.549,-93.3189,568.286)//
+xyzTracks:-138.549//-93.3189//568.286
+particalName:e-
+globalTime:0.0215283
+//This is a new data//
+evtid: 4//trackID: 16//parentID: 1//stepID: 1
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:e-
+globalTime:0.587069
+//This is a new data//
+evtid: 4//trackID: 3//parentID: 1//stepID: 1
+xyzPost(390.499,265.419,750.82)
+xyzTrack:(390.499,265.419,750.82)//
+xyzTracks:390.499//265.419//750.82
+particalName:e-
+globalTime:0.189219
+//This is a new data//
+evtid: 5//trackID: 8//parentID: 1//stepID: 1
+xyzPost(205.173,83.4571,579.315)
+xyzTrack:(205.173,83.4571,579.315)//
+xyzTracks:205.173//83.4571//579.315
+particalName:e-
+globalTime:0.500889
+//This is a new data//
+evtid: 5//trackID: 15//parentID: 1//stepID: 1
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:e-
+globalTime:0.587071
+//This is a new data//
+evtid: 6//trackID: 2//parentID: 1//stepID: 1
+xyzPost(434.7,287.254,773.579)
+xyzTrack:(434.7,287.254,773.579)//
+xyzTracks:434.7//287.254//773.579
+particalName:e-
+globalTime:0.0103251
+//This is a new data//
+evtid: 6//trackID: 7//parentID: 1//stepID: 1
+xyzPost(211.084,102.096,580.383)
+xyzTrack:(211.084,102.096,580.383)//
+xyzTracks:211.084//102.096//580.383
+particalName:e-
+globalTime:0.435571
+//This is a new data//
+evtid: 6//trackID: 14//parentID: 1//stepID: 1
+xyzPost(-368.975,98.2874,556.71)
+xyzTrack:(-368.975,98.2874,556.71)//
+xyzTracks:-368.975//98.2874//556.71
+particalName:e-
+globalTime:0.587103
+//This is a new data//
+evtid: 6//trackID: 2//parentID: 1//stepID: 2
+xyzPost(434.766,287.337,773.532)
+xyzTrack:(434.766,287.337,773.532)//
+xyzTracks:434.766//287.337//773.532
+particalName:e-
+globalTime:0.0108375
+//This is a new data//
+evtid: 6//trackID: 6//parentID: 1//stepID: 1
+xyzPost(215.528,110.638,586.134)
+xyzTrack:(215.528,110.638,586.134)//
+xyzTracks:215.528//110.638//586.134
+particalName:e-
+globalTime:0.398557
+//This is a new data//
+evtid: 7//trackID: 13//parentID: 1//stepID: 1
+xyzPost(-363.763,96.8397,550.463)
+xyzTrack:(-363.763,96.8397,550.463)//
+xyzTracks:-363.763//96.8397//550.463
+particalName:e-
+globalTime:0.559508
+//This is a new data//
+evtid: 7//trackID: 5//parentID: 1//stepID: 1
+xyzPost(219.494,101.731,593.16)
+xyzTrack:(219.494,101.731,593.16)//
+xyzTracks:219.494//101.731//593.16
+particalName:e-
+globalTime:0.358381
+//This is a new data//
+evtid: 7//trackID: 12//parentID: 1//stepID: 1
+xyzPost(-363.443,96.6367,550.162)
+xyzTrack:(-363.443,96.6367,550.162)//
+xyzTracks:-363.443//96.6367//550.162
+particalName:e-
+globalTime:0.557749
+//This is a new data//
+evtid: 7//trackID: 4//parentID: 1//stepID: 1
+xyzPost(236.393,86.2425,601.161)
+xyzTrack:(236.393,86.2425,601.161)//
+xyzTracks:236.393//86.2425//601.161
+particalName:e-
+globalTime:0.279584
+//This is a new data//
+evtid: 7//trackID: 11//parentID: 1//stepID: 1
+xyzPost(-360.19,101.709,553.241)
+xyzTrack:(-360.19,101.709,553.241)//
+xyzTracks:-360.19//101.709//553.241
+particalName:e-
+globalTime:0.535179
+//This is a new data//
+evtid: 8//trackID: 4//parentID: 1//stepID: 2
+xyzPost(236.439,86.2147,601.151)
+xyzTrack:(236.439,86.2147,601.151)//
+xyzTracks:236.439//86.2147//601.151
+particalName:e-
+globalTime:0.279862
+//This is a new data//
+evtid: 8//trackID: 10//parentID: 1//stepID: 1
+xyzPost(-370.282,105.157,540.745)
+xyzTrack:(-370.282,105.157,540.745)//
+xyzTracks:-370.282//105.157//540.745
+particalName:e-
+globalTime:0.480379
+//This is a new data//
+evtid: 8//trackID: 3//parentID: 1//stepID: 1
+xyzPost(218.031,74.8568,644.939)
+xyzTrack:(218.031,74.8568,644.939)//
+xyzTracks:218.031//74.8568//644.939
+particalName:e-
+globalTime:0.116457
+//This is a new data//
+evtid: 8//trackID: 9//parentID: 1//stepID: 1
+xyzPost(-377.384,105.646,542.133)
+xyzTrack:(-377.384,105.646,542.133)//
+xyzTracks:-377.384//105.646//542.133
+particalName:e-
+globalTime:0.456193
+//This is a new data//
+evtid: 8//trackID: 2//parentID: 1//stepID: 1
+xyzPost(207.125,66.9546,673.174)
+xyzTrack:(207.125,66.9546,673.174)//
+xyzTracks:207.125//66.9546//673.174
+particalName:e-
+globalTime:0.0126111
+//This is a new data//
+evtid: 8//trackID: 8//parentID: 1//stepID: 1
+xyzPost(-373.236,102.336,544.405)
+xyzTrack:(-373.236,102.336,544.405)//
+xyzTracks:-373.236//102.336//544.405
+particalName:e-
+globalTime:0.436951
+//This is a new data//
+evtid: 8//trackID: 7//parentID: 1//stepID: 1
+xyzPost(-386.4,101.769,541.183)
+xyzTrack:(-386.4,101.769,541.183)//
+xyzTracks:-386.4//101.769//541.183
+particalName:e-
+globalTime:0.391694
+//This is a new data//
+evtid: 8//trackID: 6//parentID: 1//stepID: 1
+xyzPost(-388.365,102.318,541.073)
+xyzTrack:(-388.365,102.318,541.073)//
+xyzTracks:-388.365//102.318//541.073
+particalName:e-
+globalTime:0.384908
+//This is a new data//
+evtid: 9//trackID: 5//parentID: 1//stepID: 1
+xyzPost(-387.966,99.3491,542.558)
+xyzTrack:(-387.966,99.3491,542.558)//
+xyzTracks:-387.966//99.3491//542.558
+particalName:e-
+globalTime:0.373852
+//This is a new data//
+evtid: 9//trackID: 4//parentID: 1//stepID: 1
+xyzPost(-389.694,100.962,542.428)
+xyzTrack:(-389.694,100.962,542.428)//
+xyzTracks:-389.694//100.962//542.428
+particalName:e-
+globalTime:0.366011
+//This is a new data//
+evtid: 9//trackID: 3//parentID: 1//stepID: 1
+xyzPost(-402.027,92.8807,547.883)
+xyzTrack:(-402.027,92.8807,547.883)//
+xyzTracks:-402.027//92.8807//547.883
+particalName:e-
+globalTime:0.313802
+//This is a new data//
+evtid: 9//trackID: 2//parentID: 1//stepID: 1
+xyzPost(-378.842,30.4053,549.933)
+xyzTrack:(-378.842,30.4053,549.933)//
+xyzTracks:-378.842//30.4053//549.933
+particalName:e-
+globalTime:0.0949829
+//This is a new data//
+evtid: 9//trackID: 2//parentID: 1//stepID: 2
+xyzPost(-378.672,30.2704,549.901)
+xyzTrack:(-378.672,30.2704,549.901)//
+xyzTracks:-378.672//30.2704//549.901
+particalName:e-
+globalTime:0.0958637
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(-415.9,274.458,681.358)
+xyzTrack:(-415.9,274.458,681.358)//
+xyzTracks:-415.9//274.458//681.358
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(-52.597,1.87221,600.977)
+xyzTrack:(-52.597,1.87221,600.977)//
+xyzTracks:-52.597//1.87221//600.977
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(127.842,-534.049,747.039)
+xyzTrack:(127.842,-534.049,747.039)//
+xyzTracks:127.842//-534.049//747.039
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(-415.9,274.458,629.809)
+xyzTrack:(-415.9,274.458,629.809)//
+xyzTracks:-415.9//274.458//629.809
+particalName:gamma
+globalTime:0.171947
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(-52.597,1.87221,599.083)
+xyzTrack:(-52.597,1.87221,599.083)//
+xyzTracks:-52.597//1.87221//599.083
+particalName:gamma
+globalTime:0.00631731
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(127.842,-534.049,713.391)
+xyzTrack:(127.842,-534.049,713.391)//
+xyzTracks:127.842//-534.049//713.391
+particalName:gamma
+globalTime:0.112239
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(374.956,506.116,790.542)
+xyzTrack:(374.956,506.116,790.542)//
+xyzTracks:374.956//506.116//790.542
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(207.216,67.0205,676.862)
+xyzTrack:(207.216,67.0205,676.862)//
+xyzTracks:207.216//67.0205//676.862
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(-415.465,273.805,619.813)
+xyzTrack:(-415.465,273.805,619.813)//
+xyzTracks:-415.465//273.805//619.813
+particalName:gamma
+globalTime:0.205394
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(-16.1431,2.03157,553.055)
+xyzTrack:(-16.1431,2.03157,553.055)//
+xyzTracks:-16.1431//2.03157//553.055
+particalName:gamma
+globalTime:0.202171
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(156.471,-525.89,699.921)
+xyzTrack:(156.471,-525.89,699.921)//
+xyzTracks:156.471//-525.89//699.921
+particalName:gamma
+globalTime:0.221227
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(374.956,506.116,721.348)
+xyzTrack:(374.956,506.116,721.348)//
+xyzTracks:374.956//506.116//721.348
+particalName:gamma
+globalTime:0.230803
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(207.216,67.0205,673.271)
+xyzTrack:(207.216,67.0205,673.271)//
+xyzTracks:207.216//67.0205//673.271
+particalName:gamma
+globalTime:0.0119796
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(-443.615,-26.1738,762.783)
+xyzTrack:(-443.615,-26.1738,762.783)//
+xyzTracks:-443.615//-26.1738//762.783
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(-416.702,269.005,616.094)
+xyzTrack:(-416.702,269.005,616.094)//
+xyzTracks:-416.702//269.005//616.094
+particalName:gamma
+globalTime:0.226065
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(-3.88544,-0.285129,524.86)
+xyzTrack:(-3.88544,-0.285129,524.86)//
+xyzTracks:-3.88544//-0.285129//524.86
+particalName:gamma
+globalTime:0.305012
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(154.057,-529.364,686.648)
+xyzTrack:(154.057,-529.364,686.648)//
+xyzTracks:154.057//-529.364//686.648
+particalName:gamma
+globalTime:0.267696
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(434.462,287.136,776.571)
+xyzTrack:(434.462,287.136,776.571)//
+xyzTracks:434.462//287.136//776.571
+particalName:gamma
+globalTime:0
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(354.289,515.382,674.389)
+xyzTrack:(354.289,515.382,674.389)//
+xyzTracks:354.289//515.382//674.389
+particalName:gamma
+globalTime:0.404711
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(218.031,74.8568,644.939)
+xyzTrack:(218.031,74.8568,644.939)//
+xyzTracks:218.031//74.8568//644.939
+particalName:gamma
+globalTime:0.116456
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(-443.615,-26.1738,718.908)
+xyzTrack:(-443.615,-26.1738,718.908)//
+xyzTracks:-443.615//-26.1738//718.908
+particalName:gamma
+globalTime:0.146349
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(-422.404,256.919,602.702)
+xyzTrack:(-422.404,256.919,602.702)//
+xyzTracks:-422.404//256.919//602.702
+particalName:gamma
+globalTime:0.289172
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(-6.40962,5.35696,529.256)
+xyzTrack:(-6.40962,5.35696,529.256)//
+xyzTracks:-6.40962//5.35696//529.256
+particalName:gamma
+globalTime:0.330313
+//This is a new data//
+evtid: 0//trackID: 4//parentID: 1//stepID: 1
+xyzPost(154.084,-529.338,686.521)
+xyzTrack:(154.084,-529.338,686.521)//
+xyzTracks:154.084//-529.338//686.521
+particalName:e-
+globalTime:0.268269
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(434.462,287.136,774.224)
+xyzTrack:(434.462,287.136,774.224)//
+xyzTracks:434.462//287.136//774.224
+particalName:gamma
+globalTime:0.00782881
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(215.382,-259.655,500)
+xyzTrack:(215.382,-259.655,500)//
+xyzTracks:215.382//-259.655//500
+particalName:gamma
+globalTime:0.329895
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(365.151,508.768,643.651)
+xyzTrack:(365.151,508.768,643.651)//
+xyzTracks:365.151//508.768//643.651
+particalName:gamma
+globalTime:0.515669
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(236.064,86.2399,601.571)
+xyzTrack:(236.064,86.2399,601.571)//
+xyzTracks:236.064//86.2399//601.571
+particalName:gamma
+globalTime:0.27766
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(-458.994,-41.1301,714.53)
+xyzTrack:(-458.994,-41.1301,714.53)//
+xyzTracks:-458.994//-41.1301//714.53
+particalName:gamma
+globalTime:0.219382
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(-433.449,253.005,592.1)
+xyzTrack:(-433.449,253.005,592.1)//
+xyzTracks:-433.449//253.005//592.1
+particalName:gamma
+globalTime:0.341882
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(-138.329,-93.3831,568.798)
+xyzTrack:(-138.329,-93.3831,568.798)//
+xyzTracks:-138.329//-93.3831//568.798
+particalName:gamma
+globalTime:0.019253
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(-9.59145,10.1352,532.467)
+xyzTrack:(-9.59145,10.1352,532.467)//
+xyzTracks:-9.59145//10.1352//532.467
+particalName:gamma
+globalTime:0.352254
+//This is a new data//
+evtid: 0//trackID: 3//parentID: 1//stepID: 1
+xyzPost(156.57,-525.851,699.931)
+xyzTrack:(156.57,-525.851,699.931)//
+xyzTracks:156.57//-525.851//699.931
+particalName:e-
+globalTime:0.221708
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(390.65,265.518,750.883)
+xyzTrack:(390.65,265.518,750.883)//
+xyzTracks:390.65//265.518//750.883
+particalName:gamma
+globalTime:0.188436
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(215.382,-259.655,238.756)
+xyzTrack:(215.382,-259.655,238.756)//
+xyzTracks:215.382//-259.655//238.756
+particalName:gamma
+globalTime:1.20131
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(401.383,490.472,544.345)
+xyzTrack:(401.383,490.472,544.345)//
+xyzTracks:401.383//490.472//544.345
+particalName:gamma
+globalTime:0.87352
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(219.497,101.732,593.159)
+xyzTrack:(219.497,101.732,593.159)//
+xyzTracks:219.497//101.732//593.159
+particalName:gamma
+globalTime:0.358353
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(-461.871,-82.2433,721.003)
+xyzTrack:(-461.871,-82.2433,721.003)//
+xyzTracks:-461.871//-82.2433//721.003
+particalName:gamma
+globalTime:0.358542
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(-600,244.244,652.822)
+xyzTrack:(-600,244.244,652.822)//
+xyzTracks:-600//244.244//652.822
+particalName:gamma
+globalTime:0.933929
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(-122.09,-95.9671,555.792)
+xyzTrack:(-122.09,-95.9671,555.792)//
+xyzTracks:-122.09//-95.9671//555.792
+particalName:gamma
+globalTime:0.089185
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(14.8132,-13.7326,539.276)
+xyzTrack:(14.8132,-13.7326,539.276)//
+xyzTracks:14.8132//-13.7326//539.276
+particalName:gamma
+globalTime:0.468362
+//This is a new data//
+evtid: 0//trackID: 2//parentID: 1//stepID: 1
+xyzPost(127.588,-534.121,712.733)
+xyzTrack:(127.588,-534.121,712.733)//
+xyzTracks:127.588//-534.121//712.733
+particalName:e-
+globalTime:0.114772
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(390.717,265.603,750.881)
+xyzTrack:(390.717,265.603,750.881)//
+xyzTracks:390.717//265.603//750.881
+particalName:gamma
+globalTime:0.188795
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(217.302,-258.752,200)
+xyzTrack:(217.302,-258.752,200)//
+xyzTracks:217.302//-258.752//200
+particalName:gamma
+globalTime:1.33078
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(402.685,493.662,545.696)
+xyzTrack:(402.685,493.662,545.696)//
+xyzTracks:402.685//493.662//545.696
+particalName:gamma
+globalTime:0.885866
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(215.534,110.581,586.149)
+xyzTrack:(215.534,110.581,586.149)//
+xyzTracks:215.534//110.581//586.149
+particalName:gamma
+globalTime:0.398263
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(-461.139,-75.6457,737.7)
+xyzTrack:(-461.139,-75.6457,737.7)//
+xyzTracks:-461.139//-75.6457//737.7
+particalName:gamma
+globalTime:0.418475
+//This is a new data//
+evtid: 0//trackID: 6//parentID: 1//stepID: 1
+xyzPost(-433.46,252.984,592.017)
+xyzTrack:(-433.46,252.984,592.017)//
+xyzTracks:-433.46//252.984//592.017
+particalName:e-
+globalTime:0.342284
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(-106.441,-94.6126,561.389)
+xyzTrack:(-106.441,-94.6126,561.389)//
+xyzTracks:-106.441//-94.6126//561.389
+particalName:gamma
+globalTime:0.144805
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 8
+xyzPost(-36.7797,-38.7414,518.019)
+xyzTrack:(-36.7797,-38.7414,518.019)//
+xyzTracks:-36.7797//-38.7414//518.019
+particalName:gamma
+globalTime:0.672331
+//This is a new data//
+evtid: 0//trackID: 2//parentID: 1//stepID: 2
+xyzPost(127.67,-534.07,712.861)
+xyzTrack:(127.67,-534.07,712.861)//
+xyzTracks:127.67//-534.07//712.861
+particalName:e-
+globalTime:0.115448
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(372.701,252.845,739.461)
+xyzTrack:(372.701,252.845,739.461)//
+xyzTracks:372.701//252.845//739.461
+particalName:gamma
+globalTime:0.271702
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 1
+xyzPost(-378.92,30.6162,550.764)
+xyzTrack:(-378.92,30.6162,550.764)//
+xyzTracks:-378.92//30.6162//550.764
+particalName:gamma
+globalTime:0.0919492
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(222.255,-256.423,100)
+xyzTrack:(222.255,-256.423,100)//
+xyzTracks:222.255//-256.423//100
+particalName:gamma
+globalTime:1.66484
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:gamma
+globalTime:0.912868
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(211.084,102.095,580.384)
+xyzTrack:(211.084,102.095,580.384)//
+xyzTracks:211.084//102.095//580.384
+particalName:gamma
+globalTime:0.435564
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(-515.545,-29.6458,755.683)
+xyzTrack:(-515.545,-29.6458,755.683)//
+xyzTracks:-515.545//-29.6458//755.683
+particalName:gamma
+globalTime:0.663579
+//This is a new data//
+evtid: 0//trackID: 5//parentID: 1//stepID: 1
+xyzPost(-422.387,256.893,602.692)
+xyzTrack:(-422.387,256.893,602.692)//
+xyzTracks:-422.387//256.893//602.692
+particalName:e-
+globalTime:0.289355
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 4
+xyzPost(-110.683,-94.3478,562.775)
+xyzTrack:(-110.683,-94.3478,562.775)//
+xyzTracks:-110.683//-94.3478//562.775
+particalName:gamma
+globalTime:0.159717
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 9
+xyzPost(-28.3414,-36.3877,524.346)
+xyzTrack:(-28.3414,-36.3877,524.346)//
+xyzTracks:-28.3414//-36.3877//524.346
+particalName:gamma
+globalTime:0.708375
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(373.829,256.683,738.897)
+xyzTrack:(373.829,256.683,738.897)//
+xyzTracks:373.829//256.683//738.897
+particalName:gamma
+globalTime:0.285177
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 2
+xyzPost(-401.992,92.8556,547.875)
+xyzTrack:(-401.992,92.8556,547.875)//
+xyzTracks:-401.992//92.8556//547.875
+particalName:gamma
+globalTime:0.313573
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(227.207,-254.094,0)
+xyzTrack:(227.207,-254.094,0)//
+xyzTracks:227.207//-254.094//0
+particalName:gamma
+globalTime:1.99891
+//This is a new data//
+evtid: 0//trackID: 14//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 8
+xyzPost(205.173,83.4571,579.315)
+xyzTrack:(205.173,83.4571,579.315)//
+xyzTracks:205.173//83.4571//579.315
+particalName:gamma
+globalTime:0.500884
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(-514.603,-32.6291,758.07)
+xyzTrack:(-514.603,-32.6291,758.07)//
+xyzTracks:-514.603//-32.6291//758.07
+particalName:gamma
+globalTime:0.676705
+//This is a new data//
+evtid: 0//trackID: 4//parentID: 1//stepID: 1
+xyzPost(-416.701,269.004,616.094)
+xyzTrack:(-416.701,269.004,616.094)//
+xyzTracks:-416.701//269.004//616.094
+particalName:e-
+globalTime:0.226081
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 5
+xyzPost(-110.351,-102.272,567.895)
+xyzTrack:(-110.351,-102.272,567.895)//
+xyzTracks:-110.351//-102.272//567.895
+particalName:gamma
+globalTime:0.191206
+//This is a new data//
+evtid: 0//trackID: 10//parentID: 1//stepID: 1
+xyzPost(-28.3414,-36.3877,524.346)
+xyzTrack:(-28.3414,-36.3877,524.346)//
+xyzTracks:-28.3414//-36.3877//524.346
+particalName:e-
+globalTime:0.708376
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 7
+xyzPost(394.476,279.405,749.008)
+xyzTrack:(394.476,279.405,749.008)//
+xyzTracks:394.476//279.405//749.008
+particalName:gamma
+globalTime:0.393
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 3
+xyzPost(-389.697,100.952,542.432)
+xyzTrack:(-389.697,100.952,542.432)//
+xyzTracks:-389.697//100.952//542.432
+particalName:gamma
+globalTime:0.365928
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(256.925,-240.118,-600)
+xyzTrack:(256.925,-240.118,-600)//
+xyzTracks:256.925//-240.118//-600
+particalName:gamma
+globalTime:4.00329
+//This is a new data//
+evtid: 0//trackID: 13//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 9
+xyzPost(203.915,72.1905,583.586)
+xyzTrack:(203.915,72.1905,583.586)//
+xyzTracks:203.915//72.1905//583.586
+particalName:gamma
+globalTime:0.541294
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 8
+xyzPost(-525.183,-35.3317,722.123)
+xyzTrack:(-525.183,-35.3317,722.123)//
+xyzTracks:-525.183//-35.3317//722.123
+particalName:gamma
+globalTime:0.80202
+//This is a new data//
+evtid: 0//trackID: 3//parentID: 1//stepID: 1
+xyzPost(-415.37,274.018,619.344)
+xyzTrack:(-415.37,274.018,619.344)//
+xyzTracks:-415.37//274.018//619.344
+particalName:e-
+globalTime:0.207309
+//This is a new data//
+evtid: 0//trackID: 1//parentID: 0//stepID: 6
+xyzPost(-88.4343,-74.3721,542.615)
+xyzTrack:(-88.4343,-74.3721,542.615)//
+xyzTracks:-88.4343//-74.3721//542.615
+particalName:gamma
+globalTime:0.336519
+//This is a new data//
+evtid: 0//trackID: 9//parentID: 1//stepID: 1
+xyzPost(-28.3437,-36.3833,524.356)
+xyzTrack:(-28.3437,-36.3833,524.356)//
+xyzTracks:-28.3437//-36.3833//524.356
+particalName:e-
+globalTime:0.708459
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 8
+xyzPost(397.188,284.429,748.375)
+xyzTrack:(397.188,284.429,748.375)//
+xyzTracks:397.188//284.429//748.375
+particalName:gamma
+globalTime:0.412159
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 4
+xyzPost(-387.972,99.3583,542.556)
+xyzTrack:(-387.972,99.3583,542.556)//
+xyzTracks:-387.972//99.3583//542.556
+particalName:gamma
+globalTime:0.373771
+//This is a new data//
+evtid: 1//trackID: 2//parentID: 1//stepID: 1
+xyzPost(215.382,-259.655,238.756)
+xyzTrack:(215.382,-259.655,238.756)//
+xyzTracks:215.382//-259.655//238.756
+particalName:e-
+globalTime:1.20132
+//This is a new data//
+evtid: 1//trackID: 12//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 10
+xyzPost(175.475,36.5707,582.754)
+xyzTrack:(175.475,36.5707,582.754)//
+xyzTracks:175.475//36.5707//582.754
+particalName:gamma
+globalTime:0.69336
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 9
+xyzPost(-524.089,-34.3565,725.923)
+xyzTrack:(-524.089,-34.3565,725.923)//
+xyzTracks:-524.089//-34.3565//725.923
+particalName:gamma
+globalTime:0.815604
+//This is a new data//
+evtid: 1//trackID: 3//parentID: 1//stepID: 2
+xyzPost(-415.354,274.012,619.322)
+xyzTrack:(-415.354,274.012,619.322)//
+xyzTracks:-415.354//274.012//619.322
+particalName:e-
+globalTime:0.207475
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 7
+xyzPost(-88.8161,-73.5288,542.113)
+xyzTrack:(-88.8161,-73.5288,542.113)//
+xyzTracks:-88.8161//-73.5288//542.113
+particalName:gamma
+globalTime:0.340032
+//This is a new data//
+evtid: 1//trackID: 8//parentID: 1//stepID: 1
+xyzPost(-36.7813,-38.742,518.019)
+xyzTrack:(-36.7813,-38.742,518.019)//
+xyzTracks:-36.7813//-38.742//518.019
+particalName:e-
+globalTime:0.672353
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 9
+xyzPost(394.014,275.462,752.061)
+xyzTrack:(394.014,275.462,752.061)//
+xyzTracks:394.014//275.462//752.061
+particalName:gamma
+globalTime:0.44619
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 5
+xyzPost(-388.363,102.317,541.073)
+xyzTrack:(-388.363,102.317,541.073)//
+xyzTracks:-388.363//102.317//541.073
+particalName:gamma
+globalTime:0.384885
+//This is a new data//
+evtid: 1//trackID: 11//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 11
+xyzPost(178.434,38.2902,594.331)
+xyzTrack:(178.434,38.2902,594.331)//
+xyzTracks:178.434//38.2902//594.331
+particalName:gamma
+globalTime:0.733628
+//This is a new data//
+evtid: 1//trackID: 13//parentID: 1//stepID: 1
+xyzPost(-524.089,-34.3565,725.923)
+xyzTrack:(-524.089,-34.3565,725.923)//
+xyzTracks:-524.089//-34.3565//725.923
+particalName:e-
+globalTime:0.815604
+//This is a new data//
+evtid: 1//trackID: 2//parentID: 1//stepID: 1
+xyzPost(-415.9,274.458,629.809)
+xyzTrack:(-415.9,274.458,629.809)//
+xyzTracks:-415.9//274.458//629.809
+particalName:e-
+globalTime:0.171956
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 8
+xyzPost(-94.9529,-74.7806,547.87)
+xyzTrack:(-94.9529,-74.7806,547.87)//
+xyzTracks:-94.9529//-74.7806//547.87
+particalName:gamma
+globalTime:0.368408
+//This is a new data//
+evtid: 1//trackID: 7//parentID: 1//stepID: 1
+xyzPost(14.8159,-13.7334,539.277)
+xyzTrack:(14.8159,-13.7334,539.277)//
+xyzTracks:14.8159//-13.7334//539.277
+particalName:e-
+globalTime:0.468392
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 10
+xyzPost(393.797,274.231,752.852)
+xyzTrack:(393.797,274.231,752.852)//
+xyzTracks:393.797//274.231//752.852
+particalName:gamma
+globalTime:0.451122
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 6
+xyzPost(-386.4,101.769,541.183)
+xyzTrack:(-386.4,101.769,541.183)//
+xyzTracks:-386.4//101.769//541.183
+particalName:gamma
+globalTime:0.391694
+//This is a new data//
+evtid: 1//trackID: 10//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 12
+xyzPost(189.853,46.6519,600.64)
+xyzTrack:(189.853,46.6519,600.64)//
+xyzTracks:189.853//46.6519//600.64
+particalName:gamma
+globalTime:0.785317
+//This is a new data//
+evtid: 1//trackID: 12//parentID: 1//stepID: 1
+xyzPost(-524.089,-34.3565,725.923)
+xyzTrack:(-524.089,-34.3565,725.923)//
+xyzTracks:-524.089//-34.3565//725.923
+particalName:e-
+globalTime:0.815604
+//This is a new data//
+evtid: 1//trackID: 10//parentID: 1//stepID: 1
+xyzPost(-94.9529,-74.7806,547.87)
+xyzTrack:(-94.9529,-74.7806,547.87)//
+xyzTracks:-94.9529//-74.7806//547.87
+particalName:e-
+globalTime:0.368408
+//This is a new data//
+evtid: 1//trackID: 6//parentID: 1//stepID: 1
+xyzPost(-9.60365,10.1507,532.472)
+xyzTrack:(-9.60365,10.1507,532.472)//
+xyzTracks:-9.60365//10.1507//532.472
+particalName:e-
+globalTime:0.352381
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 11
+xyzPost(389.315,270.217,754.059)
+xyzTrack:(389.315,270.217,754.059)//
+xyzTracks:389.315//270.217//754.059
+particalName:gamma
+globalTime:0.471593
+//This is a new data//
+evtid: 1//trackID: 1//parentID: 0//stepID: 7
+xyzPost(-373.237,102.336,544.404)
+xyzTrack:(-373.237,102.336,544.404)//
+xyzTracks:-373.237//102.336//544.404
+particalName:gamma
+globalTime:0.436935
+//This is a new data//
+evtid: 2//trackID: 9//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 2//trackID: 15//parentID: 1//stepID: 1
+xyzPost(189.853,46.6519,600.64)
+xyzTrack:(189.853,46.6519,600.64)//
+xyzTracks:189.853//46.6519//600.64
+particalName:e-
+globalTime:0.785317
+//This is a new data//
+evtid: 2//trackID: 11//parentID: 1//stepID: 1
+xyzPost(-524.089,-34.3565,725.923)
+xyzTrack:(-524.089,-34.3565,725.923)//
+xyzTracks:-524.089//-34.3565//725.923
+particalName:e-
+globalTime:0.815604
+//This is a new data//
+evtid: 2//trackID: 9//parentID: 1//stepID: 1
+xyzPost(-94.9426,-74.7831,547.876)
+xyzTrack:(-94.9426,-74.7831,547.876)//
+xyzTracks:-94.9426//-74.7831//547.876
+particalName:e-
+globalTime:0.368493
+//This is a new data//
+evtid: 2//trackID: 5//parentID: 1//stepID: 1
+xyzPost(-6.40961,5.35696,529.256)
+xyzTrack:(-6.40961,5.35696,529.256)//
+xyzTracks:-6.40961//5.35696//529.256
+particalName:e-
+globalTime:0.330314
+//This is a new data//
+evtid: 2//trackID: 1//parentID: 0//stepID: 12
+xyzPost(385.555,279.675,750.083)
+xyzTrack:(385.555,279.675,750.083)//
+xyzTracks:385.555//279.675//750.083
+particalName:gamma
+globalTime:0.508044
+//This is a new data//
+evtid: 2//trackID: 1//parentID: 0//stepID: 8
+xyzPost(-377.384,105.646,542.133)
+xyzTrack:(-377.384,105.646,542.133)//
+xyzTracks:-377.384//105.646//542.133
+particalName:gamma
+globalTime:0.456185
+//This is a new data//
+evtid: 2//trackID: 8//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912868
+//This is a new data//
+evtid: 2//trackID: 14//parentID: 1//stepID: 1
+xyzPost(189.853,46.6519,600.64)
+xyzTrack:(189.853,46.6519,600.64)//
+xyzTracks:189.853//46.6519//600.64
+particalName:e-
+globalTime:0.785317
+//This is a new data//
+evtid: 2//trackID: 10//parentID: 1//stepID: 1
+xyzPost(-524.089,-34.3565,725.923)
+xyzTrack:(-524.089,-34.3565,725.923)//
+xyzTracks:-524.089//-34.3565//725.923
+particalName:e-
+globalTime:0.815605
+//This is a new data//
+evtid: 3//trackID: 8//parentID: 1//stepID: 1
+xyzPost(-88.8159,-73.5284,542.112)
+xyzTrack:(-88.8159,-73.5284,542.112)//
+xyzTracks:-88.8159//-73.5284//542.112
+particalName:e-
+globalTime:0.340042
+//This is a new data//
+evtid: 3//trackID: 4//parentID: 1//stepID: 1
+xyzPost(-3.71484,-0.379692,524.484)
+xyzTrack:(-3.71484,-0.379692,524.484)//
+xyzTracks:-3.71484//-0.379692//524.484
+particalName:e-
+globalTime:0.306591
+//This is a new data//
+evtid: 3//trackID: 13//parentID: 1//stepID: 1
+xyzPost(385.555,279.675,750.083)
+xyzTrack:(385.555,279.675,750.083)//
+xyzTracks:385.555//279.675//750.083
+particalName:e-
+globalTime:0.508044
+//This is a new data//
+evtid: 3//trackID: 1//parentID: 0//stepID: 9
+xyzPost(-370.282,105.157,540.745)
+xyzTrack:(-370.282,105.157,540.745)//
+xyzTracks:-370.282//105.157//540.745
+particalName:gamma
+globalTime:0.480378
+//This is a new data//
+evtid: 3//trackID: 7//parentID: 1//stepID: 1
+xyzPost(400.857,491.078,538.247)
+xyzTrack:(400.857,491.078,538.247)//
+xyzTracks:400.857//491.078//538.247
+particalName:e-
+globalTime:0.912871
+//This is a new data//
+evtid: 3//trackID: 13//parentID: 1//stepID: 1
+xyzPost(189.852,46.6571,600.651)
+xyzTrack:(189.852,46.6571,600.651)//
+xyzTracks:189.852//46.6571//600.651
+particalName:gamma
+globalTime:0.785358
+//This is a new data//
+evtid: 3//trackID: 9//parentID: 1//stepID: 1
+xyzPost(-524.097,-34.3539,725.926)
+xyzTrack:(-524.097,-34.3539,725.926)//
+xyzTracks:-524.097//-34.3539//725.926
+particalName:e-
+globalTime:0.815673
+//This is a new data//
+evtid: 3//trackID: 7//parentID: 1//stepID: 1
+xyzPost(-88.4342,-74.3721,542.615)
+xyzTrack:(-88.4342,-74.3721,542.615)//
+xyzTracks:-88.4342//-74.3721//542.615
+particalName:e-
+globalTime:0.336522
+//This is a new data//
+evtid: 3//trackID: 4//parentID: 1//stepID: 2
+xyzPost(-3.7137,-0.379627,524.487)
+xyzTrack:(-3.7137,-0.379627,524.487)//
+xyzTracks:-3.7137//-0.379627//524.487
+particalName:e-
+globalTime:0.306621
+//This is a new data//
+evtid: 3//trackID: 12//parentID: 1//stepID: 1
+xyzPost(385.555,279.675,750.083)
+xyzTrack:(385.555,279.675,750.083)//
+xyzTracks:385.555//279.675//750.083
+particalName:e-
+globalTime:0.508044
+//This is a new data//
+evtid: 3//trackID: 1//parentID: 0//stepID: 10
+xyzPost(-360.19,101.709,553.24)
+xyzTrack:(-360.19,101.709,553.24)//
+xyzTracks:-360.19//101.709//553.24
+particalName:gamma
+globalTime:0.535175
+//This is a new data//
+evtid: 3//trackID: 6//parentID: 1//stepID: 1
+xyzPost(400.836,491.089,538.222)
+xyzTrack:(400.836,491.089,538.222)//
+xyzTracks:400.836//491.089//538.222
+particalName:e-
+globalTime:0.913057
+//This is a new data//
+evtid: 3//trackID: 17//parentID: 13//stepID: 1
+xyzPost(189.852,46.6571,600.651)
+xyzTrack:(189.852,46.6571,600.651)//
+xyzTracks:189.852//46.6571//600.651
+particalName:e-
+globalTime:0.785359
+//This is a new data//
+evtid: 3//trackID: 8//parentID: 1//stepID: 1
+xyzPost(-525.183,-35.3319,722.122)
+xyzTrack:(-525.183,-35.3319,722.122)//
+xyzTracks:-525.183//-35.3319//722.122
+particalName:e-
+globalTime:0.802036
+//This is a new data//
+evtid: 3//trackID: 6//parentID: 1//stepID: 1
+xyzPost(-110.352,-102.275,567.898)
+xyzTrack:(-110.352,-102.275,567.898)//
+xyzTracks:-110.352//-102.275//567.898
+particalName:e-
+globalTime:0.19125
+//This is a new data//
+evtid: 3//trackID: 3//parentID: 1//stepID: 1
+xyzPost(-16.1357,2.03375,553.057)
+xyzTrack:(-16.1357,2.03375,553.057)//
+xyzTracks:-16.1357//2.03375//553.057
+particalName:e-
+globalTime:0.202233
+//This is a new data//
+evtid: 3//trackID: 2//parentID: 1//stepID: 1
+xyzPost(-52.8089,1.87128,598.798)
+xyzTrack:(-52.8089,1.87128,598.798)//
+xyzTracks:-52.8089//1.87128//598.798
+particalName:e-
+globalTime:0.0076641
+//This is a new data//
+evtid: 3//trackID: 1//parentID: 0//stepID: 11
+xyzPost(-363.443,96.6368,550.162)
+xyzTrack:(-363.443,96.6368,550.162)//
+xyzTracks:-363.443//96.6368//550.162
+particalName:gamma
+globalTime:0.557746
+//This is a new data//
+evtid: 3//trackID: 5//parentID: 1//stepID: 1
+xyzPost(402.693,493.68,545.712)
+xyzTrack:(402.693,493.68,545.712)//
+xyzTracks:402.693//493.68//545.712
+particalName:e-
+globalTime:0.886014
+//This is a new data//
+evtid: 3//trackID: 16//parentID: 13//stepID: 1
+xyzPost(189.852,46.6572,600.651)
+xyzTrack:(189.852,46.6572,600.651)//
+xyzTracks:189.852//46.6572//600.651
+particalName:e-
+globalTime:0.785362
+//This is a new data//
+evtid: 3//trackID: 7//parentID: 1//stepID: 1
+xyzPost(-514.602,-32.6301,758.072)
+xyzTrack:(-514.602,-32.6301,758.072)//
+xyzTracks:-514.602//-32.6301//758.072
+particalName:e-
+globalTime:0.67673
+//This is a new data//
+evtid: 3//trackID: 5//parentID: 1//stepID: 1
+xyzPost(-110.687,-94.3451,562.774)
+xyzTrack:(-110.687,-94.3451,562.774)//
+xyzTracks:-110.687//-94.3451//562.774
+particalName:e-
+globalTime:0.159758
+//This is a new data//
+evtid: 3//trackID: 11//parentID: 1//stepID: 1
+xyzPost(385.555,279.675,750.083)
+xyzTrack:(385.555,279.675,750.083)//
+xyzTracks:385.555//279.675//750.083
+particalName:e-
+globalTime:0.508046
+//This is a new data//
+evtid: 3//trackID: 1//parentID: 0//stepID: 12
+xyzPost(-363.628,96.8365,550.444)
+xyzTrack:(-363.628,96.8365,550.444)//
+xyzTracks:-363.628//96.8365//550.444
+particalName:gamma
+globalTime:0.559054
+//This is a new data//
+evtid: 3//trackID: 4//parentID: 1//stepID: 1
+xyzPost(401.424,490.378,544.14)
+xyzTrack:(401.424,490.378,544.14)//
+xyzTracks:401.424//490.378//544.14
+particalName:e-
+globalTime:0.874437
+//This is a new data//
+evtid: 3//trackID: 12//parentID: 1//stepID: 1
+xyzPost(189.855,46.6768,600.637)
+xyzTrack:(189.855,46.6768,600.637)//
+xyzTracks:189.855//46.6768//600.637
+particalName:e-
+globalTime:0.785466
+//This is a new data//
+evtid: 3//trackID: 6//parentID: 1//stepID: 1
+xyzPost(-515.549,-29.6405,755.682)
+xyzTrack:(-515.549,-29.6405,755.682)//
+xyzTracks:-515.549//-29.6405//755.682
+particalName:e-
+globalTime:0.663634
+//This is a new data//
+evtid: 3//trackID: 4//parentID: 1//stepID: 1
+xyzPost(-106.339,-94.6082,561.405)
+xyzTrack:(-106.339,-94.6082,561.405)//
+xyzTracks:-106.339//-94.6082//561.405
+particalName:e-
+globalTime:0.145271
+//This is a new data//
+evtid: 3//trackID: 10//parentID: 1//stepID: 1
+xyzPost(385.552,279.681,750.085)
+xyzTrack:(385.552,279.681,750.085)//
+xyzTracks:385.552//279.681//750.085
+particalName:e-
+globalTime:0.508097
+//This is a new data//
+evtid: 3//trackID: 1//parentID: 0//stepID: 13
+xyzPost(-363.763,96.8397,550.463)
+xyzTrack:(-363.763,96.8397,550.463)//
+xyzTracks:-363.763//96.8397//550.463
+particalName:gamma
+globalTime:0.559508
+//This is a new data//
+evtid: 3//trackID: 3//parentID: 1//stepID: 1
+xyzPost(354.065,515.494,674.247)
+xyzTrack:(354.065,515.494,674.247)//
+xyzTracks:354.065//515.494//674.247
+particalName:e-
+globalTime:0.40583
+//This is a new data//
+evtid: 3//trackID: 11//parentID: 1//stepID: 1
+xyzPost(178.434,38.2901,594.331)
+xyzTrack:(178.434,38.2901,594.331)//
+xyzTracks:178.434//38.2901//594.331
+particalName:e-
+globalTime:0.733635
+//This is a new data//
+evtid: 3//trackID: 5//parentID: 1//stepID: 1
+xyzPost(-461.137,-75.6462,737.702)
+xyzTrack:(-461.137,-75.6462,737.702)//
+xyzTracks:-461.137//-75.6462//737.702
+particalName:e-
+globalTime:0.418507
+//This is a new data//
+evtid: 3//trackID: 3//parentID: 1//stepID: 1
+xyzPost(-122.059,-95.9921,555.673)
+xyzTrack:(-122.059,-95.9921,555.673)//
+xyzTracks:-122.059//-95.9921//555.673
+particalName:e-
+globalTime:0.089735
+//This is a new data//
+evtid: 3//trackID: 9//parentID: 1//stepID: 1
+xyzPost(389.315,270.216,754.06)
+xyzTrack:(389.315,270.216,754.06)//
+xyzTracks:389.315//270.216//754.06
+particalName:e-
+globalTime:0.471598
+//This is a new data//
+evtid: 4//trackID: 1//parentID: 0//stepID: 14
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:gamma
+globalTime:0.587069
+//This is a new data//
+evtid: 4//trackID: 2//parentID: 1//stepID: 1
+xyzPost(375.062,506.068,721.245)
+xyzTrack:(375.062,506.068,721.245)//
+xyzTracks:375.062//506.068//721.245
+particalName:e-
+globalTime:0.231461
+//This is a new data//
+evtid: 4//trackID: 10//parentID: 1//stepID: 1
+xyzPost(175.471,36.5657,582.75)
+xyzTrack:(175.471,36.5657,582.75)//
+xyzTracks:175.471//36.5657//582.75
+particalName:e-
+globalTime:0.693421
+//This is a new data//
+evtid: 4//trackID: 4//parentID: 1//stepID: 1
+xyzPost(-461.874,-82.2913,720.989)
+xyzTrack:(-461.874,-82.2913,720.989)//
+xyzTracks:-461.874//-82.2913//720.989
+particalName:e-
+globalTime:0.358801
+//This is a new data//
+evtid: 4//trackID: 2//parentID: 1//stepID: 1
+xyzPost(-138.587,-93.3422,568.311)
+xyzTrack:(-138.587,-93.3422,568.311)//
+xyzTracks:-138.587//-93.3422//568.311
+particalName:e-
+globalTime:0.0212655
+//This is a new data//
+evtid: 4//trackID: 8//parentID: 1//stepID: 1
+xyzPost(394.014,275.462,752.061)
+xyzTrack:(394.014,275.462,752.061)//
+xyzTracks:394.014//275.462//752.061
+particalName:e-
+globalTime:0.44619
+//This is a new data//
+evtid: 4//trackID: 19//parentID: 1//stepID: 1
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:e-
+globalTime:0.587069
+//This is a new data//
+evtid: 4//trackID: 9//parentID: 1//stepID: 1
+xyzPost(203.915,72.1902,583.587)
+xyzTrack:(203.915,72.1902,583.587)//
+xyzTracks:203.915//72.1902//583.587
+particalName:e-
+globalTime:0.541305
+//This is a new data//
+evtid: 4//trackID: 3//parentID: 1//stepID: 1
+xyzPost(-459.013,-41.1275,714.52)
+xyzTrack:(-459.013,-41.1275,714.52)//
+xyzTracks:-459.013//-41.1275//714.52
+particalName:e-
+globalTime:0.219511
+//This is a new data//
+evtid: 4//trackID: 2//parentID: 1//stepID: 2
+xyzPost(-138.549,-93.3189,568.286)
+xyzTrack:(-138.549,-93.3189,568.286)//
+xyzTracks:-138.549//-93.3189//568.286
+particalName:e-
+globalTime:0.0215283
+//This is a new data//
+evtid: 4//trackID: 7//parentID: 1//stepID: 1
+xyzPost(397.188,284.43,748.375)
+xyzTrack:(397.188,284.43,748.375)//
+xyzTracks:397.188//284.43//748.375
+particalName:e-
+globalTime:0.412175
+//This is a new data//
+evtid: 4//trackID: 18//parentID: 1//stepID: 1
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:e-
+globalTime:0.587069
+//This is a new data//
+evtid: 4//trackID: 8//parentID: 1//stepID: 1
+xyzPost(205.173,83.4571,579.315)
+xyzTrack:(205.173,83.4571,579.315)//
+xyzTracks:205.173//83.4571//579.315
+particalName:e-
+globalTime:0.500889
+//This is a new data//
+evtid: 4//trackID: 2//parentID: 1//stepID: 1
+xyzPost(-443.44,-26.0032,718.137)
+xyzTrack:(-443.44,-26.0032,718.137)//
+xyzTracks:-443.44//-26.0032//718.137
+particalName:e-
+globalTime:0.149212
+//This is a new data//
+evtid: 4//trackID: 6//parentID: 1//stepID: 1
+xyzPost(394.476,279.405,749.008)
+xyzTrack:(394.476,279.405,749.008)//
+xyzTracks:394.476//279.405//749.008
+particalName:e-
+globalTime:0.393
+//This is a new data//
+evtid: 4//trackID: 17//parentID: 1//stepID: 1
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:e-
+globalTime:0.587069
+//This is a new data//
+evtid: 5//trackID: 7//parentID: 1//stepID: 1
+xyzPost(211.084,102.096,580.383)
+xyzTrack:(211.084,102.096,580.383)//
+xyzTracks:211.084//102.096//580.383
+particalName:e-
+globalTime:0.435571
+//This is a new data//
+evtid: 5//trackID: 2//parentID: 1//stepID: 2
+xyzPost(-443.476,-25.8188,718.158)
+xyzTrack:(-443.476,-25.8188,718.158)//
+xyzTracks:-443.476//-25.8188//718.158
+particalName:e-
+globalTime:0.149988
+//This is a new data//
+evtid: 5//trackID: 5//parentID: 1//stepID: 1
+xyzPost(372.699,252.843,739.46)
+xyzTrack:(372.699,252.843,739.46)//
+xyzTracks:372.699//252.843//739.46
+particalName:e-
+globalTime:0.27173
+//This is a new data//
+evtid: 5//trackID: 16//parentID: 1//stepID: 1
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:e-
+globalTime:0.587069
+//This is a new data//
+evtid: 5//trackID: 6//parentID: 1//stepID: 1
+xyzPost(215.528,110.638,586.134)
+xyzTrack:(215.528,110.638,586.134)//
+xyzTracks:215.528//110.638//586.134
+particalName:e-
+globalTime:0.398557
+//This is a new data//
+evtid: 6//trackID: 4//parentID: 1//stepID: 1
+xyzPost(390.727,265.613,750.883)
+xyzTrack:(390.727,265.613,750.883)//
+xyzTracks:390.727//265.613//750.883
+particalName:e-
+globalTime:0.188891
+//This is a new data//
+evtid: 6//trackID: 15//parentID: 1//stepID: 1
+xyzPost(-368.973,98.2842,556.711)
+xyzTrack:(-368.973,98.2842,556.711)//
+xyzTracks:-368.973//98.2842//556.711
+particalName:e-
+globalTime:0.587071
+//This is a new data//
+evtid: 6//trackID: 5//parentID: 1//stepID: 1
+xyzPost(219.494,101.731,593.16)
+xyzTrack:(219.494,101.731,593.16)//
+xyzTracks:219.494//101.731//593.16
+particalName:e-
+globalTime:0.358381
+//This is a new data//
+evtid: 6//trackID: 3//parentID: 1//stepID: 1
+xyzPost(390.499,265.419,750.82)
+xyzTrack:(390.499,265.419,750.82)//
+xyzTracks:390.499//265.419//750.82
+particalName:e-
+globalTime:0.189219
+//This is a new data//
+evtid: 6//trackID: 14//parentID: 1//stepID: 1
+xyzPost(-368.975,98.2874,556.71)
+xyzTrack:(-368.975,98.2874,556.71)//
+xyzTracks:-368.975//98.2874//556.71
+particalName:e-
+globalTime:0.587103
+//This is a new data//
+evtid: 6//trackID: 4//parentID: 1//stepID: 1
+xyzPost(236.393,86.2425,601.161)
+xyzTrack:(236.393,86.2425,601.161)//
+xyzTracks:236.393//86.2425//601.161
+particalName:e-
+globalTime:0.279584
+//This is a new data//
+evtid: 7//trackID: 2//parentID: 1//stepID: 1
+xyzPost(434.7,287.254,773.579)
+xyzTrack:(434.7,287.254,773.579)//
+xyzTracks:434.7//287.254//773.579
+particalName:e-
+globalTime:0.0103251
+//This is a new data//
+evtid: 7//trackID: 13//parentID: 1//stepID: 1
+xyzPost(-363.763,96.8397,550.463)
+xyzTrack:(-363.763,96.8397,550.463)//
+xyzTracks:-363.763//96.8397//550.463
+particalName:e-
+globalTime:0.559508
+//This is a new data//
+evtid: 7//trackID: 4//parentID: 1//stepID: 2
+xyzPost(236.439,86.2147,601.151)
+xyzTrack:(236.439,86.2147,601.151)//
+xyzTracks:236.439//86.2147//601.151
+particalName:e-
+globalTime:0.279862
+//This is a new data//
+evtid: 7//trackID: 2//parentID: 1//stepID: 2
+xyzPost(434.766,287.337,773.532)
+xyzTrack:(434.766,287.337,773.532)//
+xyzTracks:434.766//287.337//773.532
+particalName:e-
+globalTime:0.0108375
+//This is a new data//
+evtid: 7//trackID: 12//parentID: 1//stepID: 1
+xyzPost(-363.443,96.6367,550.162)
+xyzTrack:(-363.443,96.6367,550.162)//
+xyzTracks:-363.443//96.6367//550.162
+particalName:e-
+globalTime:0.557749
+//This is a new data//
+evtid: 7//trackID: 3//parentID: 1//stepID: 1
+xyzPost(218.031,74.8568,644.939)
+xyzTrack:(218.031,74.8568,644.939)//
+xyzTracks:218.031//74.8568//644.939
+particalName:e-
+globalTime:0.116457
+//This is a new data//
+evtid: 7//trackID: 11//parentID: 1//stepID: 1
+xyzPost(-360.19,101.709,553.241)
+xyzTrack:(-360.19,101.709,553.241)//
+xyzTracks:-360.19//101.709//553.241
+particalName:e-
+globalTime:0.535179
+//This is a new data//
+evtid: 7//trackID: 2//parentID: 1//stepID: 1
+xyzPost(207.125,66.9546,673.174)
+xyzTrack:(207.125,66.9546,673.174)//
+xyzTracks:207.125//66.9546//673.174
+particalName:e-
+globalTime:0.0126111
+//This is a new data//
+evtid: 7//trackID: 10//parentID: 1//stepID: 1
+xyzPost(-370.282,105.157,540.745)
+xyzTrack:(-370.282,105.157,540.745)//
+xyzTracks:-370.282//105.157//540.745
+particalName:e-
+globalTime:0.480379
+//This is a new data//
+evtid: 8//trackID: 9//parentID: 1//stepID: 1
+xyzPost(-377.384,105.646,542.133)
+xyzTrack:(-377.384,105.646,542.133)//
+xyzTracks:-377.384//105.646//542.133
+particalName:e-
+globalTime:0.456193
+//This is a new data//
+evtid: 8//trackID: 8//parentID: 1//stepID: 1
+xyzPost(-373.236,102.336,544.405)
+xyzTrack:(-373.236,102.336,544.405)//
+xyzTracks:-373.236//102.336//544.405
+particalName:e-
+globalTime:0.436951
+//This is a new data//
+evtid: 9//trackID: 7//parentID: 1//stepID: 1
+xyzPost(-386.4,101.769,541.183)
+xyzTrack:(-386.4,101.769,541.183)//
+xyzTracks:-386.4//101.769//541.183
+particalName:e-
+globalTime:0.391694
+//This is a new data//
+evtid: 9//trackID: 6//parentID: 1//stepID: 1
+xyzPost(-388.365,102.318,541.073)
+xyzTrack:(-388.365,102.318,541.073)//
+xyzTracks:-388.365//102.318//541.073
+particalName:e-
+globalTime:0.384908
+//This is a new data//
+evtid: 9//trackID: 5//parentID: 1//stepID: 1
+xyzPost(-387.966,99.3491,542.558)
+xyzTrack:(-387.966,99.3491,542.558)//
+xyzTracks:-387.966//99.3491//542.558
+particalName:e-
+globalTime:0.373852
+//This is a new data//
+evtid: 9//trackID: 4//parentID: 1//stepID: 1
+xyzPost(-389.694,100.962,542.428)
+xyzTrack:(-389.694,100.962,542.428)//
+xyzTracks:-389.694//100.962//542.428
+particalName:e-
+globalTime:0.366011
+//This is a new data//
+evtid: 9//trackID: 3//parentID: 1//stepID: 1
+xyzPost(-402.027,92.8807,547.883)
+xyzTrack:(-402.027,92.8807,547.883)//
+xyzTracks:-402.027//92.8807//547.883
+particalName:e-
+globalTime:0.313802
+//This is a new data//
+evtid: 9//trackID: 2//parentID: 1//stepID: 1
+xyzPost(-378.842,30.4053,549.933)
+xyzTrack:(-378.842,30.4053,549.933)//
+xyzTracks:-378.842//30.4053//549.933
+particalName:e-
+globalTime:0.0949829
+//This is a new data//
+evtid: 9//trackID: 2//parentID: 1//stepID: 2
+xyzPost(-378.672,30.2704,549.901)
+xyzTrack:(-378.672,30.2704,549.901)//
+xyzTracks:-378.672//30.2704//549.901
+particalName:e-
+globalTime:0.0958637

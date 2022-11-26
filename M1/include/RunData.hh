@@ -7,7 +7,7 @@
 #include <array>
 
 
-{
+
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
@@ -69,7 +69,7 @@ inline G4double  RunData::GetTrackLength(G4int id) const {
   return fTrackLength[id];
 }
 
-}
+
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
