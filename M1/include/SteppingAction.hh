@@ -1,5 +1,5 @@
-#ifndef B1SteppingAction_h
-#define B1SteppingAction_h 1
+#ifndef SteppingAction_h
+#define SteppingAction_h 1
 //#ifndef与#endif防止头文件的重复包含和编译
 
 #include "G4UserSteppingAction.hh" //一般用户自定义的SteppingAction类继承于此
