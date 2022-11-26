@@ -51,5 +51,6 @@ Todo：
 * 生成、读取、分析root文件。
 * 定义灵敏探测器SD和Hit抽取数据
 * 基于上一条：通过mac脚本控制读取数据来自SteppingAction还是灵敏探测器
-
+# 11/26
+今天添加rundata.cc&hh文件，还没测试效果，之后在runaction加root文件生成功能。下班。
 

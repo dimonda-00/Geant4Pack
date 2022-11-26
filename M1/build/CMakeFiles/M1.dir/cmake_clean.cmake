@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/M1.dir/src/PhysicsList.cc.o"
   "CMakeFiles/M1.dir/src/PrimaryGeneratorAction.cc.o"
   "CMakeFiles/M1.dir/src/RunAction.cc.o"
+  "CMakeFiles/M1.dir/src/RunData.cc.o"
   "CMakeFiles/M1.dir/src/SteppingAction.cc.o"
   "M1"
   "M1.pdb"
