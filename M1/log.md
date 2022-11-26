@@ -26,7 +26,7 @@ detector材料还没设置
 一定要保存
 今天又错删了一次
 # 11/11
-今天整上了vscode Cmake 好用滴捏
+今天整上了vscode Cmake 
 还有git ，代码可以存在github上面了
 记得备份
 * 11/11/17：50 
@@ -45,3 +45,11 @@ void SteppingAction::UserSteppingAction(const G4Step* step)
 初步判断是在RockSeam和CoalSeam内次级粒子运算占用所致，
 需要下一步在StepAction.cc中控制Track，kill掉前两层生成的非需要粒子。
 over，今天下班
+# 11/25
+Todo：
+* 增加粒子轨迹，方向，始发点。
+* 生成、读取、分析root文件。
+* 定义灵敏探测器SD和Hit抽取数据
+* 基于上一条：通过mac脚本控制读取数据来自SteppingAction还是灵敏探测器
+
+

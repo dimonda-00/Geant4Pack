@@ -11,7 +11,7 @@
 # Use this open statement to create an OpenInventor view:
 #/vis/open OI
 #
-#这是啥？
+#这是啥？这些也是不同的可视化引擎
 # Use this open statement to create a .prim file suitable for
 # viewing in DAWN:
 #/vis/open DAWNFILE
@@ -23,13 +23,14 @@
 # Use this open statement to create a .wrl file suitable for
 # viewing in a VRML viewer:
 #/vis/open VRML2FILE
-#
+
+#禁止自动刷新。和使得视频安静？
 # Disable auto refresh and quieten vis messages whilst scene and
 # trajectories are established:
 /vis/viewer/set/autoRefresh false
 /vis/verbose errors
 #
-# Draw geometry:绘制几何结构？
+# Draw geometry:创建一个空的画面,然后也把world和world以下的shape全添加进来
 /vis/drawVolume
 #
 # Specify view angle:指定视角
@@ -122,11 +123,13 @@
 /vis/viewer/set/viewpointThetaPhi 120 150
 # 视角调节 
 # /vis/viewer/set/upVector [x] [y] [z]
-# Re-establish auto refreshing and verbosity:
+
+# Re-establish auto refreshing and verbosity:重新启用自动刷新？
 /vis/viewer/set/autoRefresh true
 /vis/verbose warnings
-#
-# For file-based drivers, use this to create an empty detector view:
-#/vis/viewer/flush
+
 # where N is the maximum number you wish to allow.  N < 0 means "unlimited".
 /vis/scene/endOfEventAction accumulate <-1>
+# end of visualize结尾？
+# For file-based drivers, use this to create an empty detector view:
+#/vis/viewer/flush
